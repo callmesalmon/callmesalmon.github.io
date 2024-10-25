@@ -1,6 +1,9 @@
+html {
+    border: 3px solid #a0a098;
+}
+
 body {
     color: #000;
     background-color: #fff;
     font-family: Arial, Helvetica, sans-serif;
-    border: 3px solid #a0a098;
 }
