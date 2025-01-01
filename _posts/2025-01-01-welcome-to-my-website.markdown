@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my website!"
+author: Elis Staaf
 date:   2025-01-01 14:09:52 +0100
 categories: idk
 ---

@@ -50,3 +50,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+ -
+   scope:
+     path: "_posts"
+   values:
+     layout: "post"
+     author: "Elis Staaf"
