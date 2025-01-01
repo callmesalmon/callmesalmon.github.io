@@ -1,2 +1,2 @@
 # ElisStaaf.github.io
-Source code for my github.io site.
+This is my pseudo-website written with the help of jekyll.
