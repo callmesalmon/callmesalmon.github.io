@@ -1,9 +1,7 @@
 ---
-layout: post
-title:  "Welcome to my website!"
-author: Elis Staaf
-date:   2025-01-01 14:09:52 +0100
-categories: idk
+layout: page
+title: About
+permalink: /about/
 ---
 Welcome to my website! I sometimes (though not very often -_-) do blog
 posts here! I am a programmer from Sweden that has made some interesting
