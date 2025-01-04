@@ -26,10 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ElisStaaf
 
-# Build settings
-theme: minima
+# Build
+remote_theme: jekyll/minima
+date_format: "%b %-d, %Y"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
