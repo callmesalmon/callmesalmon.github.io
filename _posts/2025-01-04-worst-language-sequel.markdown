@@ -52,7 +52,7 @@ for your viewing pleasure):
 {% endhighlight %}
 
 So what if *I* make a transalation of brainfuck but replace the little funny
-symbols (ex. `>`) by existential crisis symbols (ex. `A`), meaning that e.x
+symbols (ex. `>`) by existential crisis symbols (ex. `A`), meaning that ex.
 `>>+<+..` could become `AAeEeUU`. So... I'm going to be writing a brainfuck
 interpreter? Oh god no...
 
@@ -102,7 +102,7 @@ void expr(...) {
 Now, brackets exist, so let's add a bracket_flag in. It should
 be an `int` since we're going to iterate with it later. Also,
 add a command variable to control command. It should be a
-`char` since every command is a `char` (e.x `'>'`). Let's
+`char` since every command is a `char` (ex. `'>'`). Let's
 update the `expr` function to include all these new additions:
 
 {% highlight c %}
@@ -177,6 +177,19 @@ void expr(...) {
     printf("\n");
 }
 {% endhighlight %}
+
+Oh, and here's the part where I replace all of the brainfuck
+instructions with scream instructions. The list below shows
+the instruction and the thing it was replaced with:
+
+- `>` => `A`
+- `<` => `E`
+- `+` => `U`
+- `-` => `O`
+- `,` => `a`
+- `.` => `e`
+- `[` => `u`
+- `]` => `o`
 
 Then, let's just add a main file to strap all of this together!
 But before we do that, we need to add a function prototype to
