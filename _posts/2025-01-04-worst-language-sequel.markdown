@@ -262,8 +262,9 @@ And magically we have a *Hello World* program in screamlang:
 UUUUUUUUuAUUUUuAUUAUUUAUUUAUEEEEOoAUAUAOAAUuEoEOoAAeAOOOeUUUUUUUeeUUUeAAeEOeEeUUUeOOOOOOeOOOOOOOOeAAUeAUUe
 {% endhighlight %}
 
-After a quick `Makefile` my interpreter was good to go! So I released it onto github,
-check it out [here](https://github.com/ElisStaaf/scream). And with that, I'd like to
-present to you, the last step of this language endeavour:
+After a quick `Makefile` my interpreter was good to go! You can check it out
+in the [archives](elisstaaf.github.io/archive/scream24), or on [github](https://github.com/ElisStaaf/scream).
+And with that, I'd like to present to you, the last step of
+this language endeavour:
 
 *Step 5. Profit.*
