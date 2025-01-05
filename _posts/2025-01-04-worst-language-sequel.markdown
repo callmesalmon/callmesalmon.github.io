@@ -263,7 +263,8 @@ UUUUUUUUuAUUUUuAUUAUUUAUUUAUEEEEOoAUAUAOAAUuEoEOoAAeAOOOeUUUUUUUeeUUUeAAeEOeEeUU
 {% endhighlight %}
 
 After a quick `Makefile` my interpreter was good to go! You can check it out
-in the [archives](elisstaaf.github.io/archive/scream24), or on [github](https://github.com/ElisStaaf/scream).
+in the [archives](https://elisstaaf.github.io/archive/scream24), or on
+[github](https://github.com/ElisStaaf/scream).
 And with that, I'd like to present to you, the last step of
 this language endeavour:
 
