@@ -1,0 +1,22 @@
+---
+permalink: /archive/scream24/Makefile
+---
+
+INSTALL_BIN = scream
+INSTALL_DIR = /usr/local/bin
+
+CC     = gcc
+CFLAGS = -I./include
+C_OBJS = $(wildcard */*.c)
+
+all: $(INSTALL_BIN)
+
+$(INSTALL_BIN): $(OBJS)
+	$(CC) $(CFLAGS) -o $(INSTALL_BIN) $(C_OBJS)
+
+install: $(INSTALL_BIN)
+	mv $(INSTALL_BIN) $(INSTALL_DIR)/$(INSTALL_BIN)
+
+clean:
+	rm $(C_OBJS) && \
+	rm $(INSTALL_BIN)
