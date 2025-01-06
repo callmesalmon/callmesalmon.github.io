@@ -63,7 +63,7 @@ func templ(arcv string, file string) string {
 
 func main() {
     if len(os.Args) <= 2 {
-        fmt.Println("USAGE: archive <arcv> <dir>")
+        fmt.Println("USAGE: goarch <arcv> <dir>")
         return
     }
     archive := os.Args[1]
