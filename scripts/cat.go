@@ -8,7 +8,7 @@ import (
 
 func main() {
     if len(os.Args) <= 1 {
-        fmt.Println("USAGE: file <args>")
+        fmt.Println("USAGE: cat <args>")
         return
     }
     content, err := os.ReadFile(os.Args[1])
