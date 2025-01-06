@@ -1,0 +1,13 @@
+GOARCH
+    GoArch (Go ARCHive) is a little thing I made that does most
+    of the archive generation for you! If you didn't know, I have
+    an archive were I put all my code, GoArch is the generation
+    process of it.
+
+PREREQUISITES
+    * A working go compiler
+
+INSTALL
+    git clone https://github.com/ElisStaaf/ElisStaaf.github.io website
+    cd website/goarch
+    sudo ./make.sh
