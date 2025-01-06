@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Blabla need rubyzip and sass-embedded
 gem 'rubyzip', '~> 2.4.1'
-gem 'sass-embedded'
+gem 'sass-embedded', '~> 1.83.0'
