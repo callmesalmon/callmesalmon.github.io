@@ -29,6 +29,18 @@ import (
     "os"
 )
 
+const TEMPL = `<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title></title>
+    </head>
+    <body>
+    
+    </body>
+</html>`
+
 func cat(file string) string {
     content, err := os.ReadFile(file)
     if err != nil {
@@ -74,5 +86,10 @@ func main() {
         if err != nil {
             log.Fatalf("Failed to write to file \"%s\" :(", file)
         }
+    }
+    err := os.WriteFile("archive/" + archive + ".html",
+        []byte(TEMPL), 0666)
+    if err != nil {
+        log.Fatalf("Failed to write to file \"%s.html\" :(", archive)
     }
 }
