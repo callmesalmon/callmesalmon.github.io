@@ -350,8 +350,8 @@ some Scheme. For example, it's better than common-lisp because... Just
     (if (integer? n)
         (if (= n 1)
         1
-        n * facto(n -1))
-        '())
+        n * (facto n -1))
+        '()))
 {% endhighlight %}
 
 So yeah, Scheme is actually pretty good! Tune in next time and I'll
