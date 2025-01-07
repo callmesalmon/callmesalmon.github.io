@@ -345,7 +345,7 @@ my free time. It's so good that in my free time, I sometimes just write
 some Scheme. For example, it's better than common-lisp because... Just
 *look* at this Scheme:
 
-{% highlight scm %}
+{% highlight scheme %}
 (define (facto n)
     (if (integer? n)
         (if (= n 1)
