@@ -1,0 +1,361 @@
+---
+layout: post
+title:  "Beginning 2025 with Scheme"
+author: Elis Staaf
+date:   2025-01-07 11:45:21 +0100
+categories: ramblings
+---
+
+If you didn't know already, I'm actually a really boring person. I guess I play videogames..?
+No, too basic. I... Program..? That's kind of interesting! Okay, I'll talk a little more about
+that.
+
+Okay, so I have *always* been a fan of functional programming. Even though I mostly program in
+imperative languages (ex. C), I've programmed some common lisp and elixir. But I've never done
+Scheme. To be fair, there are other functional programming languages, but like, I'm trying to
+set a scene here! Anyways, I figured I would do something unique this year, like building an
+interpreter... Oh. Okay okay, but like a *Scheme* interpreter, not some boring old interpreter!
+Okay, I know I've built like *3* other interpreters before, but I believe this will be different!
+And with that, let's build a Scheme interpreter in..?
+
+### Making a scheme interpreter
+
+**Step 1. What language?** To be frank, I wanted to write it in C but figured that since I haven't
+written C++ in a while I would do that.
+
+**Step 2. Okay, how?** No idea, like maybe creating some object structure shit and things and building
+an interpreter with that. It *should* work..? So yeah, let's do that. We could begin with creating a
+type, taking on the form of a union with different properties, like... This?
+
+{% highlight cpp %}
+typedef enum obj_type {
+        INTEGER,
+        REAL,
+        BOOLEAN,
+        CHARACTER,
+        STRING,
+        PAIR,
+        SYMBOL,
+        BUITLIN_PROC,
+        COMPOUND_PROC,
+        EMPTY_LIST,
+        WARN,
+        INPUT_PORT,
+        OUTPUT_PORT,
+} obj_type;
+
+typedef struct object {
+    obj_type type;
+    union {
+        struct {
+            long value;
+        }integer;
+        struct {
+            long f_part;
+            long s_part;
+        }real;
+        struct {
+            char value;
+        } character;
+        struct {
+            char value;
+        }boolean;
+        struct {
+            char *value;
+        } string;
+        struct {
+            object * car;
+            object * cdr;
+        }pair;
+        struct {
+            char *value;
+        }symbol;
+        struct {
+            object* (*func)(object *args);
+        }builtin_proc;
+        struct {
+            object* parameters;
+            object* body;
+            object* env;
+        }compound_proc;
+        struct {
+            char *value;
+        }warn;
+        struct {
+            FILE *stream;
+        } input_port;
+        struct {
+            FILE *stream;
+        } output_port;
+    }data;
+} object;
+{% endhighlight %}
+
+Yeah! That works! Now to... Define like symbols and builtins??? Yeah! We'd define some symbols
+and builtins for the interpreter to eventually interpret:
+
+{% highlight cpp %}
+object* empty_list;
+object* False;
+object* True;
+object* symbol_table;
+object* quote_symbol;
+object* define_symbol;
+object* set_symbol;
+object* ok_symbol;
+object* if_symbol;
+object* lambda_symbol;
+object* begin_symbol;
+object* cond_symbol;
+object* else_symbol;
+object* let_symbol;
+object* and_symbol;
+object* or_symbol;
+object* apply_symbol;
+
+object* empty_environment;
+object* global_environment;
+{% endhighlight %}
+
+And then there are waaaaaaaaay too many builtins now defined to show them all, so I'm leaving
+them out. Now for the reading of a source file (No, I'm not putting off making the interpreter!):
+
+{% highlight cpp %}
+object* read(FILE *in) {
+    char c;
+    char temp;
+
+    DEBUG("reading\n");
+    
+    skip_space(in);
+    c=getc(in);
+
+    while ( c==';' ) {
+        get_comment(in);
+        c=getc(in);
+    }
+
+    if ( c=='#'  ) { // get character
+    
+        c = getc(in);
+        switch (c) {
+            case 'T':
+                
+            case 't':
+                return True;
+            case 'F':
+                
+            case 'f':
+                return False;
+            case '\\':
+                return get_character(in);
+            default:
+            return make_warn("unknown boolean literal");
+        }
+    }
+    else if ( isdigit(c) ||  ( c=='-' && isdigit(peek(in)) )    ) { //try to get number: integer & double
+        
+        
+        ungetc(c,in);
+        return get_number(in);
+    }
+    else if ( c=='"' ) { // try to get string
+        
+        int i=0;
+        char buffer[256];
+        while( (c=getc(in))!='"' ) {
+            if (c == '\\') {
+                temp = peek(in);
+                if (temp=='n') {
+                    c='\n';
+                    getc(in);
+                }
+                if (temp == '"') {
+                    c = '"';
+                    getc(in);
+                }
+            }
+            if (c == EOF) {
+                return make_warn("non-terminated string literal");
+            }
+            if (i < 256 - 1) {
+                buffer[i++] = c;
+            }
+            else {
+                return make_warn( "string too long");
+            }
+        }
+        buffer[i]='\0';
+        
+        return make_string(buffer);
+    }
+    else if (c=='(') {  // try to get pair
+        return get_pair(in);
+    }
+    else if ( is_ex_al(c) || isalpha(c) ) { //try to get symbol
+        ungetc(c,in);
+        return get_symbol(in);
+    }
+    else if (c=='\'') {
+        return cons(quote_symbol,cons(read(in),empty_list));
+    }
+    else if (c!=EOF) {
+        return make_warn("Read: invalid grammar!");
+    }
+    else {
+        DEBUG("read: Reached end of file.\n");
+        return NULL;
+    }
+    return new_object();
+}
+{% endhighlight %}
+
+... Yeah, I've been putting of making the interpreter, but that's because it's,
+like, not fun. But yeah heres your stupid eval function :,(
+
+{% highlight cpp %}
+object* eval(object* exp, object* env) {
+    object *proc=NULL;
+    object *args=NULL;
+
+    DEBUG("start to evaluate!\n");
+
+    while (1) {
+
+        if ( is_self_value(exp) ) {
+            DEBUG("eval: self_value: %d\n", exp->type);
+            return exp;
+        }
+        else if ( is_variable(exp) ) {
+            DEBUG("eval: variable\n");
+            return loop_up_env(exp,env);
+        }
+        else if ( is_quote(exp) ) {
+            DEBUG("eval: quote\n");
+            return content_of_quote(exp);
+        }
+        else if ( is_assignment(exp) ) {
+            DEBUG("eval: assignment\n");
+            return eval_assignment(exp,env);
+        }
+        else if ( is_def(exp) ) {
+            DEBUG("eval: def\n");
+            return eval_def(exp,env);
+        }
+        else if ( is_if(exp) ) {
+            DEBUG("eval: if\n");
+            exp= is_true(eval(if_predicate(exp),env)) ? if_true(exp):if_false(exp);
+        }
+        else if ( is_begin(exp) ) {
+            DEBUG("eval: begin\n");
+            exp = begin_body(exp);
+            while( !is_last_exp(exp) ) {
+                DEBUG("eval begin: is NOT last expression\n");
+                eval(first_exp(exp),env);
+                exp=rest_exp(exp);
+            }
+            exp=first_exp(exp);
+        }
+        else if( is_cond(exp) ) {
+            DEBUG("eval: cond\n");
+            if ( is_empty_list(cond_body(exp)) ) {
+                return make_warn("Exception: invalid syntax (cond)");
+            }
+            exp= convert_to_if(cond_body(exp));
+        }
+        else if( is_let(exp) ) {
+            DEBUG("eval: let\n");
+            exp = make_function( make_lambda(let_parameters(exp),let_body(exp)),let_arguments(exp));
+        }
+        else if ( is_lambda(exp) ) {
+            DEBUG("eval: lambda\n");
+            return make_compound_func(lambda_parameters(exp),lambda_body(exp),env);
+        }
+        else if ( is_and_or(exp) ) {
+            DEBUG("eval: and / or\n");
+            return eval_and_or((exp),env);
+        }
+        else if ( is_apply(exp) ) {
+            DEBUG("eval: apply\n");
+            proc=apply_operator(exp);
+            args=apply_operand(exp);
+            exp= cons(proc,args);
+        }
+        else if ( is_function(exp) ) {
+            DEBUG("eval: function\n");
+            proc= eval(function(exp), env);
+            args= eval_operand_list(operands(exp), env);
+            if ( is_builtin_procedure(proc) ) {
+                DEBUG("eval: builtin function\n");
+                return (proc->data.builtin_proc.func)(args);
+            }
+            else if ( is_compound_func(proc) ) {
+                DEBUG("eval: compound function\n");
+                env = extend_env(proc->data.compound_proc.parameters, args, proc->data.compound_proc.env);
+                exp=proc->data.compound_proc.body;
+
+                DEBUG("eval: compound function: type: %d\n",car(exp)->type);
+                while( !is_last_exp(exp) ) {
+                    DEBUG("eval compound function: is NOT last expression , type: %d\n",cdr(exp)->type);
+                    eval(first_exp(exp),env);
+                    exp=rest_exp(exp);
+                }
+                exp=first_exp(exp);
+            }
+            else {
+                fprintf(stderr, "[ERROR] Cannot eval unknown expression.\n");
+                exit(1);
+            }
+        }
+        else if ( is_warn(exp) ) {
+            return exp;
+        }
+        else {
+            fprintf(stderr, "[ERROR] Cannot eval unknown expression.\n");
+            exit(1);
+        }
+
+        if (is_last_exp(exp)) {
+            DEBUG("eval: exp IS last expression!\n");
+            break;
+        }
+
+        if (proc->type==WARN) {
+            DEBUG("return: proc\n");
+            return proc;
+        }
+
+        if (args->type==WARN) {
+            DEBUG("return: args\n");
+            return args;
+        }
+    }
+
+    return ok_symbol;
+}
+{% endhighlight %}
+
+After a quick `main.cpp` my interpreter was good to go! I decided to name it
+`MyScheme`. Why? Because it's *my* scheme! You can check it out
+[here](https://github.com/ElisStaaf/myscheme).
+
+### Is Scheme good?
+Yes. It's really good. It's so good that I made a Scheme web framework in
+my free time. It's so good that in my free time, I sometimes just write
+some Scheme. For example, it's better than common-lisp because... Just
+*look* at this Scheme:
+
+{% highlight scm %}
+(define (facto n)
+    (if (integer? n)
+        (if (= n 1)
+        1
+        n * facto(n -1))
+        '())
+{% endhighlight %}
+
+So yeah, Scheme is actually pretty good! Tune in next time and I'll
+rabble about... Carrots or something. I only learned one thing from
+this...
+
+*"Scheme is pretty good!"*
