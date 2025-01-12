@@ -260,7 +260,7 @@ scary. Okay, and now it wo-
 WHAT THE!? ERROR!? Oh, okay! My ``$DISPLAY`` environment variable
 wasn't set correctly!? It was ``:0.0``, and I still don't know
 what it was talking about (plot twist: I needed to input
-my IP address for some reason. Btw, my IP address is ********).
+my IP address for some reason. Btw, my IP address is \*\*\*\*\*\*\*\*).
 And then, my (non-)beautiful game engine was done! It was
 (non-)beautiful! I could... Move left and right, and...
 That was about it... Hmm...
