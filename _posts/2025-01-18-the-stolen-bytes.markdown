@@ -57,10 +57,10 @@ Still not getting it? Okay, let me rephrase that text for you: There are 8 usele
 aligned integers on the stack. Why is this? These are padding bytes, they are used so that..? Wait, what?
 MSVC is *stealing* 8 bytes for "padding" when they could *easily* be compressed. MSVC is a *thief*.
 This makes a lot of programs *much* slower! Think about this on a larger scale! I call the above
-code 1000 times! 8 * 1000 is 8000 bytes! 8KB have now been used. Let's do that 1000 times.
-8 * 1000 is still 8000... MEGABYTES!!! 8MB. Let's repeat *that* 1000 times. Now, 8 * 1000
+code 1024 times! 8 * 1024 is 8000 bytes! 8KB have now been used. Let's do that 1024 times.
+8 * 1024 is still 8000... MEGABYTES!!! 8MB. Let's repeat *that* 1024 times. Now, 8 * 1024
 continues to be 8000... But the value increases to *GIGABYTES*!? 8GB of *nothing* is now
-on your system! You have wasted 8GB! This is of course an exaggeration, (8 * 1000) * 3
+on your system! You have wasted 8GB! This is of course an exaggeration, (8 * 1024) * 3
 is not an equation you see in the wild often, but this means that MSVC is using up
 space on your system!!! MSVC could theoretically take up your entire system with
 useless padding. Though incredibly unlikely, a malicous attacker could
@@ -77,8 +77,11 @@ void evil() {
 }
 
 int main() {
+    int i = 0;
     while (true) {
-        evil();
+        while (++i < 1024) {
+            evil();
+        }
     }
     return 0;
 }
