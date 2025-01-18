@@ -97,7 +97,7 @@ This would fill up your system with bytes upon bytes, like this:
 - 8PB
 - A really big data center would die around here.
 - 8EB
-- Every thought any human being has ever had wouldn't fit here.
+- Every thought any human being has ever had would fit here.
 - 8ZB
 - 8YB
 - If someone took in this information, they would probably collapse
