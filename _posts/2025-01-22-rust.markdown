@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "The Rust situation is crazy"
+author: Elis Staaf
+date:   2025-01-22 22:52:10 +0100
+categories: ramblings
+---
+
+So the US government. It... Exists, nothing more positive to say about it...
+They released a paper like a year ago endorsing Rust (the programming language,
+not the element) and spitting on C. This made me *mad*. I love C! It's definitely
+my *favourite* language of all time. It's beautiful. But I'm not stupid... Sometimes...
+But I realize the flaws of C: Memory leaks... Yeah, that's about it, but memory
+leaks are a pretty serious issue and we need to work around it. Also, I like Rust,
+don't get me wrong! It's just not my favourite language ever... At all. I enjoy
+programming Rust, I just... Don't like the borrow checker...
+
+*\*Gasp!\** I hear you say. But listen, it took me a while to even learn the borrow
+checker, and I was pretty satisfied! But turns out I didn't learn the borrow checker.
+I overlooked some things. Okay, throw tomatoes at me and call me stupid, just let me
+talk! If a *normal* developer like me can't really learn the borrow checker in an hour,
+there's probably a problem with it! Yeah, borrow checking is bad, sue me.
+
+Typing, typing, typing. Rust's typing is *trash*. I remember once I needed to return
+a string as a type. Me, an intellectual, decides to return an ``&str``. *"If a string
+as a parameter is an ``&str``, I should return that, right? RIGHT!?"*. Think something
+like this, but more complicated:
+
+{% highlight rust %}
+pub fn return_a_str() -> &str {
+    return "Hello World!\n";
+}
+{% endhighlight %}
+
+And that raises an error... Turns out (I looked it up after 40 minutes) that the
+*return type* of a string is... ``String``? Wait, what? Why? Huh? What? Hmm? Huh?
+To this day I still don't have any idea what that was...
+
+Also, WATCH THIS:
+
+{% highlight rust %}
+fn main() {
+    println!("Hello World!");
+}
+{% endhighlight %}
+
+Does this compile? Does it? DOES IT? NO NO NO NO!!!!!! God, I think I'm going
+insane... The function needs to be PUBLIC!!!! WHY!? WHY!?
+
+[![WHY!!!!!!](_img/question_for_god.png)](/)
+
+Now, to answer the question of the ages: Is Rust... Good? The answer is... *Yes*,
+the answer is yes. All of the above complaints are just small nitpicks in an
+otherwise good language. It gets like a 7/10 on the good scale.
+
+Anyway, I'm going to... Complain about Rust some more, and then digress when the
+tomatoes are thrown... Install Rust plz.
