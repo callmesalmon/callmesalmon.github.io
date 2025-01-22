@@ -47,7 +47,7 @@ fn main() {
 Does this compile? Does it? DOES IT? NO NO NO NO!!!!!! God, I think I'm going
 insane... The function needs to be PUBLIC!!!! WHY!? WHY!?
 
-[![WHY!!!!!!](/_img/question_for_god.jpg)](/_img/question_for_god.jpg)
+[![WHY!!!!!!](https://i.imgflip.com/2mpd5x.jpg)](https://i.imgflip.com/2mpd5x.jpg)
 
 Now, to answer the question of the ages: Is Rust... Good? The answer is... *Yes*,
 the answer is yes. All of the above complaints are just small nitpicks in an
