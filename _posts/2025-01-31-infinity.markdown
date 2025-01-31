@@ -90,7 +90,7 @@ int main() {
     }
     int y = -512;
     if (y > INF(y)) {
-        printf("And this is where th%e problems start to arise.\n");
+        printf("And this is where the problems start to arise.\n");
     } else {
         printf("This code is really ugly.\n");
     }
