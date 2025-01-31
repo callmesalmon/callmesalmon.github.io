@@ -1,0 +1,136 @@
+---
+layout: post
+title:  "Achieving infinity in C"
+author: Elis Staaf
+date:   2025-01-22 18:34:34 +0100
+categories: ramblings
+---
+
+Infinity. It is... Certainly a uhh *not* number. Ahh, this is getting
+akward. Okay, onwards to my main point. *Why is it so hard to program
+infinity?*. I've been meaning to find this out, and I'll explain why.
+
+## *"Why do you care?"*
+I've been making this little [operating system](https://github.com/ElisStaaf/pearlOS)
+for a few months. It's fun, but one thing that isn't fun about it is
+making the standard libraries. It's very difficult to recreate these
+library functions in pure C, but it is possible! Except for one.
+``INFINITY``. The macro from the math library defining... Well,
+infinity. But it's never been achieved by me. I've been using
+``~(1<<33)`` as a placeholder for a while but now I *actually*
+want to find out.
+
+## *"How do you achieve it?"*
+Well, we could begin by looking at the standard library's
+definition of "INFINITY":
+
+{% highlight c %}
+// HUGE_VALF definition:
+// # if __GNUC_PREREQ (3, 3)
+// #  define HUGE_VALF (__builtin_huge_valf ())
+// #  define HUGE_VALL (__builtin_huge_vall ())
+// # else
+// #  define HUGE_VALF 1e10000f
+// #  define HUGE_VALL 1e10000L
+// # endif
+
+# if __GNUC_PREREQ (3, 3)
+#  define INFINITY (__builtin_inff ())
+# else
+#  define INFINITY HUGE_VALF
+# endif
+{% endhighlight %}
+
+There are *two* paths we can go down here. We can assume that
+``GNUC_PREREQ == (3, 3)`` and that it's not. Let's assume
+that it's not first (because that's the shorter path)
+and then that it is. So, our ``GNUC_PREREQ`` is not equal
+to ``(3, 3)``. Now, infinity becomes ``HUGE_VALF`` and
+the value of ``HUGE_VALF`` is ``1e10000f``. Simple as
+that. We can simply define our ``INF``
+macro as this:
+
+{% highlight c %}
+#define INF 1e10000f
+{% endhighlight %}
+
+We're done! But what if it is? What if ``GNUC_PREREQ``
+is equal to ``(3, 3)``, I mean. Now, ``INFINITY`` suddenly
+transforms into some LAME builtin (``__builtin_inff``).
+Using this, is it still possible to achieve
+infinity? Don't know, but let's try anyways!
+
+#### *"Why not just ``__builtin_inff``?"*
+Because I'm not scared. I refuse to use the standard
+library functions if something else is possible. I do
+simply refuse.
+
+#### *"``-1`` has to work, right?"*
+Not really. Sometimes, if your only handling positive
+values, some idiot might say that you should use ``-1``
+as a replacement for ``INFINITY``, as you can not
+compare with it. Idiotic.
+
+#### *"Try ``x+1``!"*
+``x+1`` is a more unpopular answer, but stupid nonetheless.
+I mean, you could compare against it but it doesn't really
+work in practice. See this code:
+
+{% highlight c %}
+#include <stdio.h>
+
+#define INF(x) (x+1)
+
+int main() {
+    int x = 512;
+    if (x > INF(x)) {
+        printf("This is impossible, idiots!\n");
+    } else {
+        printf("This will always happen.\n");
+    }
+    int y = -512;
+    if (y > INF(y)) {
+        printf("And this is where th%e problems start to arise.\n");
+    } else {
+        printf("This code is really ugly.\n");
+    }
+    return 0;
+}
+{% endhighlight %}
+
+This code is really ugly. Comparing ``x`` against a macro with
+parameter ``x``. I don't want ugly code, I'd rather use ``~(1<<33)``.
+
+#### *"``x/0`` has to work!"*
+Well then, know-it-all, let's try it:
+
+{% highlight c %}
+#include <stdio.h>
+
+double div(double d1, double d2) { return d1 / d2; }
+
+#define INF div(3, 0)
+
+int main() {
+  printf("%d\n", INF);
+  return 0;
+}
+{% endhighlight %}
+
+Wait... This program compiles! O-okay, let's check it out:
+
+{% highlight sh %}
+gcc -o inf inf.c
+./inf
+{% endhighlight %}
+
+Output:
+
+{% highlight cpp %}
+inf
+{% endhighlight %}
+
+YES! YES YES YES! IT WORKS! WORKS! WOHOO! Well, that's how
+you do it! You uhh divide by zero. Well, okay, I'll be seeing
+you after fixing my operating system. Buh-byte! See what I did there?
+Cool eh? Eh?
