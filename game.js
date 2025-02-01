@@ -157,7 +157,7 @@ document.body.onkeyup = function(e) {
     isJumping = true;
     setTimeout(function() { resetJump(); }, 1000);
   }
-  document.addEventListener('click', function handleClick() {
+  document.body.addEventListener('click', function handleClick() {
     isJumping = true;
     setTimeout(function() { resetJump(); }, 1000);
   });
