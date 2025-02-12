@@ -3,7 +3,6 @@ layout: page
 permalink: /archive/scream24/
 ---
 
-# scream24
 Scream24 (Scream revision 2024) is a programming language completely written in
 incoherent screams. It includes such incredible instructions, such as
 ``AAEEeuueoeoaEAEOeueAEOAEOAEeueAOEOEAeueuaEOeOEUEUAEeoaoeUAEEA``.
