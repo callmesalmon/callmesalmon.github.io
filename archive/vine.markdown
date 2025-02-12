@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 permalink: /archive/vine/
 ---
 
