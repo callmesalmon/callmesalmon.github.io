@@ -106,4 +106,4 @@ for gods sake! We can collectively reform if we just accept change instead
 of staying with the old and usual. The key to change is -- of course --
 to accept it.
 
-## [Next chapter: Oligarchy](/books/waiting-for-marxocracy/oligarchy)
+## [Next chapter: Oligarchy and Corporate interest](/books/waiting-for-marxocracy/oligarchy)
