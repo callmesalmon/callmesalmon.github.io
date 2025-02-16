@@ -76,4 +76,31 @@ How are we supposed to break the cycle? Break the cycle of corruption in
 open source so prevalent in the modern day? I'll give you a second to
 think...  3, 2, 1... Okay, please look at step 5. "It opens up a donation
 option". What we can do is... Just not. If we don't accept money from
-these big corporations, we can't get curbed out of our democracy!
+these big corporations, we can't get curbed out of our democracy! Do
+not fold! Stay strong and never give up on maintaining both your project,
+and democracy.
+
+## Anti-partisanship
+A modern democracy tends to be a *representative democracy*. While this *may*
+sometimes work in real-life, it never works in FOSS. You see, a party is
+less an organization than a package of beliefs, which more often than
+not leads to tribalism (if you want to know why that's a problem,
+refer to [FOSS-culture](/books/technomarxist-manifesto/foss-culture)).
+In Technomarxism and FOSS-democracy in general, it's important to be
+anti-partisan, meaning not being for any party, and not wanting any
+parties. There's very much a reason for me citing *direct democracy*
+as a core part of Technomarxism, and not just *democracy*.
+
+## Initiating conversation
+If you agree with my ideas and want to spread them: A good way
+to do so is to propose democracy to an open-source project you
+contribute frequently to. It may be a big project, it may be a
+small one. The important thing is to initiate democracy. Every
+new democratic project is one step towards full Technomarxism.
+For further reading on FOSS-democracy -- which also coincidentally
+brings up many of the points about anarchy I've covered --, see
+[this paper](https://prezi.com/koxlpmckjpv6/foss-as-a-model-for-participative-democracy/),
+which more or less confirms democracy as the right way of
+governance for FOSS. Unlike what we'll be covering next:
+
+## [Next chapter: Meritocracy](/books/technomarxist-manifesto/meritocracy)
