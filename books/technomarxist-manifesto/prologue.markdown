@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /books/technomarxist-manifesto/prologue
+title: ""
 ---
 
 # The Technomarxist Manifesto

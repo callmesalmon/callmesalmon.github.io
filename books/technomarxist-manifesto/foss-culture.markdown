@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /books/technomarxist-manifesto/foss-culture
+title: ""
 ---
 
 # FOSS-culture
