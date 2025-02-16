@@ -1,6 +1,7 @@
 ---
 layout: base
 permalink: /books/technomarxist-manifesto/democracy
+title:
 ---
 
 # Democracy
@@ -64,3 +65,15 @@ FOSS project. I will call this roadmap "The FOSS-corruption cycle":
 6. Large corporation donates ~€10,000,000.
 7. Corporation controls everything.
 8. A possible fork is formed, the fork recurses.
+
+What often happens in FOSS is that bigger companies go and invest in smaller
+-- yet popular -- projects (for example: Godot is closer to an oligarchy than
+a democracy). It's a very sad process that ruins FOSS-projects worldwide and
+impacts all of the developers of the impacted project.
+
+## Breaking the cycle
+How are we supposed to break the cycle? Break the cycle of corruption in
+open source so prevalent in the modern day? I'll give you a second to
+think...  3, 2, 1... Okay, please look at step 5. "It opens up a donation
+option". What we can do is... Just not. If we don't accept money from
+these big corporations, we can't get curbed out of our democracy!
