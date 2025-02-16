@@ -79,7 +79,7 @@ take that away from *us*! *We* have Linux, GNU and so much more! They cannot bre
 us! This is a formal call to action, to all of you counter-authoritarians! *We*
 own the software, and no one can steal that from us! Remember who controls
 the modern world? *Us*.  
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\  
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 Well, that sounded awfully radical. But yes, I'm being completely honest and  
 hope more people take up my call to action to save open source. Thank you.
 
