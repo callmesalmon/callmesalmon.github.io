@@ -42,7 +42,7 @@ trough helping each other and providing the common man with counter-authoritaria
 tools as well as counter-authoritarian software. After hearing this, doesn't
 FOSS-Democracy sound like the next step? We can't both be counter-authoritarian
 *and* authoritarian, right? Yet Fossarchy-Mossarchy is way to deregulated for a
-software development community to ever thrive in. Democracy is the confortable
+software development community to ever thrive in. Democracy is the comfortable
 life we live in, why not bring it to our software, too?
 
 ## Modern FOSS
