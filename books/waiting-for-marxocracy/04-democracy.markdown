@@ -21,7 +21,7 @@ summarized in one sentence: Democracy for the charitable. For example:
 VIM is charityware and people that donate to the VIM foundation (which
 in turn donates to a foundation to help starving children in Uganda)
 are the charitocrats. They can engage in direct democracy (which is
-also one of the principles of technomarxism).*
+also one of the principles of marxocracy).*
 
 Though, for the most part: Bram Moolenaar was a BDFL, so before he
 sadly passed away, it was more like a charito-dictatorship (the collective

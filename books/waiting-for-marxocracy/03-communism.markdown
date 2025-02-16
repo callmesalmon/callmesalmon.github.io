@@ -73,7 +73,8 @@ Yes, this part is a core part of FOSS, and therefore it
 should not be a shock that I'm including it in this ideal
 "FOSS ideology". FOSS-communism is a very bad name for
 an ideology though, and thus I propose "Newage-Marxism"
-or "Marxocracy". I'll be going with "Technomarxism"
+or "Marxocracy". I'll be going with "Marxocracy" (because
+of it being the governing-system version of marxism)
 but in reality it doesn't matter.
 
 ### Direct democracy
