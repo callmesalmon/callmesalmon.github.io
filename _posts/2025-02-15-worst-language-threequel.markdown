@@ -28,8 +28,8 @@ read further. If not, stop now.
 
 ## II: To come up with an idea
 Now, my friend, you might be thinking: *How do I come up with
-an idea, nonetheless a good one?*. To that I ask: *Do you
-really need a good idea?*. What I'm trying to get at here
+an idea, nonetheless a good one?* To that I ask: *Do you
+really need a good idea?* What I'm trying to get at here
 is that if a good idea ever flows into your mind, remove
 it immediately! Or else you might make a *good* programming
 language! What you want to do instead is think of the most

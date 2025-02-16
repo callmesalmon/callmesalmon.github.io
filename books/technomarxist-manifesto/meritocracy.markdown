@@ -27,3 +27,5 @@ if this is a good system or not based of this:
 4. Both:         Succeed
 
 Have you thought about your answer? Well, it's... VERY BAD!
+
+### The inequality
