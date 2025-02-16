@@ -67,6 +67,25 @@ in the MS-sphere if Microsoft didn't have VSCode, for example. Speaking of
 VSCode, it's just another Microsoft monopoly, hidden under a thin veil of
 "FOSS" and "Open-source".
 
+## VSCode
+It is downright insane how popular VSCode is. It's "Just another FOSS project",
+right? No. Just another monopoly. It's crazy how the public doesn't understand
+that it's just another stupid Microsoft product. Speaking of "Microsoft product",
+VSCode is programmed in TypeScript: A Microsoft-made language! Shocking! Microsoft
+does what it can to push TypeScript to the top of every algorithm (same with VSCode).
+The downright *insane* thing with VSCode is that they're basically brainwashing the
+masses to develop *for them*. They say, and I quote:
+
+*"\[...] we (Microsoft) develop the Visual Studio Code product
+together with **the community**. \[...]"*
+
+What will they do next, compile a 1984 (capitalist editon) style propaganda message,
+oh I could only imagine! Just imagine:
+
+MICROSOFT IS OPEN SOURCE.  
+FOSS IS SLAVERY.  
+MINDLESS CONSUMPTION IS BLISS.
+
 ## A call to action
 In our modern FOSS-sphere, the monopolies of the world are thriving. We willingly
 welcome them into our counter-authoritarian sphere and let them monopolize it,
@@ -82,7 +101,5 @@ the modern world? *Us*.
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 Well, that sounded awfully radical. But yes, I'm being completely honest and  
 hope more people take up my call to action to save open source. Thank you.
-
-## 
 
 ## [Next chapter: BDFL](/books/waiting-for-marxocracy/bdfl)
