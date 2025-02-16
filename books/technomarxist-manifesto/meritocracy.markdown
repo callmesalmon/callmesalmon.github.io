@@ -66,4 +66,44 @@ on our community sites :P). This same community helps with the testing and works
 implementing each feature to ensure it works as best as possible. Our process is truly community-driven from
 beginning to end."*
 
+## How meritocracies are formed
+Meritocracies are often formed by well-meaning people that genuinely
+believe that meritocracy is a good governing system, while it's not.
+I discourage you to harass anybody who owns or maintains a
+meritocratic project as they're often well-meaning people who are
+simply misinformed (or maybe neoliberals but we shouldn't harass
+them anyway \[*maybe*]).
 
+## Republicans and meritocracies
+We've already covered how there's already a pretty big part of the
+FOSS community that are schizophrenic and don't have a single good opinion.
+These people are called "Republicans" and are truly the worst of the worst
+of FOSS. Yet, these people -- both in real-life and in FOSS -- Believe that
+a meritocracy is only correct and is the correct way of running a FOSS-project.
+These people are very, very wrong and have as small of a brain as the chance
+of meritocracy succeeding. The people that say "The US is a meritocracy"
+though, I believe: Are nationalists in disguise so there's no need to consider
+them.
+
+## Ending the meritocracy
+*"Well then, if meritocracies are so bad, then lets get rid of them!"*, to that
+I answer: *"Yes"*. It's a pretty good idea to end a meritocracy... But how?
+Depends on the group you're trying to convert from meritocracy. Sometimes it's
+as easy as just telling them *"No meritocracy!"* but it's often more intricate than
+that. Don't go as far as to harass people, but opening issues or making public
+announcements and calls to end the meritocracy often leads to democracy. This
+tends to be a bit harder than ending a democracy, though. It can still fall
+victim to the FOSS-corruption cycle with the exception of establishing a
+democracy, but that just leads to a worse system: *Oligarchy*. It's next
+to impossible to recover from oligarchy as any forks or new projects
+will just go back into the FOSS-corruption cycle again and again and
+again! But as we discussed in ["Democracy"](/books/technomarxist-manifesto/democracy),
+there is a way to escape from the hellhole of the FOSS-corruption cycle,
+that being: *Stop accepting donations!* Yet it tends to be a bit harder
+with these meritocrats. But if you're able to reform the meritocracy
+turned oligarchy by destroying the oligarchy: Please push for democracy,
+for gods sake! We can collectively reform if we just accept change instead
+of staying with the old and usual. The key to change is -- of course --
+to accept it.
+
+## [Next chapter: Oligarchy](/books/technomarxist-manifesto/oligarchy)
