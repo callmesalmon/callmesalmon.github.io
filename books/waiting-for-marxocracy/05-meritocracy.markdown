@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/technomarxist-manifesto/meritocracy
+permalink: /books/waiting-for-marxocracy/meritocracy
 title: ""
 ---
 
@@ -34,7 +34,7 @@ they've contributed to a project (contributions = merit in this
 case). This is just straight up inequality and discourages
 newcomers as they're treated much worse than the "devotees"
 of the pack. It's almost like... A class system! This goes
-against the principles of Technomarxism, as not everyone
+against the principles of Marxocracy, as not everyone
 is treated equally. FOSS-meritocracy leads to an eerily
 similar class-system as to our real-world, where the
 bourgeoise (devotees) are seen as "better" than the
@@ -97,7 +97,7 @@ victim to the FOSS-corruption cycle with the exception of establishing a
 democracy, but that just leads to a worse system: *Oligarchy*. It's next
 to impossible to recover from oligarchy as any forks or new projects
 will just go back into the FOSS-corruption cycle again and again and
-again! But as we discussed in ["Democracy"](/books/technomarxist-manifesto/democracy),
+again! But as we discussed in ["Democracy"](/books/waiting-for-marxocracy/democracy),
 there is a way to escape from the hellhole of the FOSS-corruption cycle,
 that being: *Stop accepting donations!* Yet it tends to be a bit harder
 with these meritocrats. But if you're able to reform the meritocracy
@@ -106,4 +106,4 @@ for gods sake! We can collectively reform if we just accept change instead
 of staying with the old and usual. The key to change is -- of course --
 to accept it.
 
-## [Next chapter: Oligarchy](/books/technomarxist-manifesto/oligarchy)
+## [Next chapter: Oligarchy](/books/waiting-for-marxocracy/oligarchy)

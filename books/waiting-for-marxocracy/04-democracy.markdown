@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/technomarxist-manifesto/democracy
+permalink: /books/waiting-for-marxocracy/democracy
 title: ""
 ---
 
@@ -48,7 +48,7 @@ life we live in, why not bring it to our software, too?
 ## Modern FOSS
 In modern FOSS, democracies are very rare, even among bigger projects! Godot,
 for example: It's by no means a democracy. Democracy is also what I believe to
-be the first step toward Technomarxism in the modern FOSS-sphere. Nowadays,
+be the first step toward Marxocracy in the modern FOSS-sphere. Nowadays,
 worse systems like meritocracy or maybe even oligarchy dominate the FOSS
 market. It is truly a disgusting sight.
 
@@ -85,22 +85,22 @@ A modern democracy tends to be a *representative democracy*. While this *may*
 sometimes work in real-life, it never works in FOSS. You see, a party is
 less an organization than a package of beliefs, which more often than
 not leads to tribalism (if you want to know why that's a problem,
-refer to [FOSS-culture](/books/technomarxist-manifesto/foss-culture)).
-In Technomarxism and FOSS-democracy in general, it's important to be
+refer to [FOSS-culture](/books/waiting-for-marxocracy/foss-culture)).
+In Marxocracy and FOSS-democracy in general, it's important to be
 anti-partisan, meaning not being for any party, and not wanting any
 parties. There's very much a reason for me citing *direct democracy*
-as a core part of Technomarxism, and not just *democracy*.
+as a core part of Marxocracy, and not just *democracy*.
 
 ## Initiating conversation
 If you agree with my ideas and want to spread them: A good way
 to do so is to propose democracy to an open-source project you
 contribute frequently to. It may be a big project, it may be a
 small one. The important thing is to initiate democracy. Every
-new democratic project is one step towards full Technomarxism.
+new democratic project is one step towards full Marxocracy.
 For further reading on FOSS-democracy -- which also coincidentally
 brings up many of the points about anarchy I've covered --, see
 [this paper](https://prezi.com/koxlpmckjpv6/foss-as-a-model-for-participative-democracy/),
 which more or less confirms democracy as the right way of
 governance for FOSS. Unlike what we'll be covering next:
 
-## [Next chapter: Meritocracy](/books/technomarxist-manifesto/meritocracy)
+## [Next chapter: Meritocracy](/books/waiting-for-marxocracy/meritocracy)

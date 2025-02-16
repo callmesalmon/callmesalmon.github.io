@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/technomarxist-manifesto/oligarchy
+permalink: /books/waiting-for-marxocracy/oligarchy
 title: ""
 ---
 
@@ -27,7 +27,7 @@ no freedom here, it's just *"Do what I say because I'm paying you"*!
 ## The power
 Just to give you a sense of what these oligarchs will do if they even
 get a whiff of you doing something you want. Godot -- an oligarchy --
-experienced this under the [*"Wokot controversy"*](https://elisstaaf.github.io/books/technomarxist-manifesto/foss-culture#godot-foundation).
+experienced this under the [*"Wokot controversy"*](https://elisstaaf.github.io/books/waiting-for-marxocracy/foss-culture#godot-foundation).
 A bunch of oligarchs got really mad that Godot -- prepare for something
 shocking -- cares about gay people? MIND BLOWN! So, they left and created
 an "apolitical" (by which I mean: "conservative nationalist") fork of the
@@ -38,4 +38,4 @@ inferior to its "woke" counterpart.
 ## Capitalism versus FOSS
 
 
-## [Next chapter: BDFL](/books/technomarxist-manifesto/bdfl)
+## [Next chapter: BDFL](/books/waiting-for-marxocracy/bdfl)

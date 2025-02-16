@@ -1,10 +1,10 @@
 ---
 layout: base
-permalink: /books/technomarxist-manifesto/prologue
+permalink: /books/waiting-for-marxocracy/prologue
 title: ""
 ---
 
-# The Technomarxist Manifesto
+# Waiting For Marxocracy
 Have you ever thought about how FOSS-projects are run? Are they democracies, dictatorships,
 or maybe even oligarchs? What is the optimal way of running a FOSS-project?
 Also, how do we enact the correct policy, remain human and not die in the process?
@@ -26,4 +26,4 @@ So, have you decided to read this eBook? Are you ready to explore different
 ways of controlling FOSS in the most fair way possible? If so, you can go to
 the first chapter by clicking the "Next chapter" link below. Thanks for reading!
 
-## [Next chapter: FOSS culture](/books/technomarxist-manifesto/foss-culture)
+## [Next chapter: FOSS culture](/books/waiting-for-marxocracy/foss-culture)

@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/technomarxist-manifesto/communism
+permalink: /books/waiting-for-marxocracy/communism
 title: ""
 ---
 
@@ -29,10 +29,10 @@ which is a core part in FOSS anyways).*
 Also, to clarify: I am a communist (or a Marxist, to
 be precise) and I have my biases. Keep that in mind.
 
-## Technomarxism
+## Marxocracy
 So now, why would FOSS-communism be a better way of
 running a FOSS-project than Fossarchy or Mossarchy
-(see [FOSS-culture](/books/technomarxist-manifesto/foss-culture))?
+(see [FOSS-culture](/books/waiting-for-marxocracy/foss-culture))?
 Well, let's disect the formal definition (which
 by "formal" I mean "provided from the top of
 my head"), part by part:
@@ -73,11 +73,11 @@ Yes, this part is a core part of FOSS, and therefore it
 should not be a shock that I'm including it in this ideal
 "FOSS ideology". FOSS-communism is a very bad name for
 an ideology though, and thus I propose "Newage-Marxism"
-or "Technomarxism". I'll be going with "Technomarxism"
+or "Marxocracy". I'll be going with "Technomarxism"
 but in reality it doesn't matter.
 
 ### Direct democracy
-Another part of Technomarxism I want to emphasize is
+Another part of Marxocracy I want to emphasize is
 *direct democracy*, *all* people wanting to vote for
 a new feature in your project: Shall. The optimal
 way to run this is trough ranked-choice voting,
@@ -90,7 +90,7 @@ the voter has given it, the choice with the
 most votes win and shall be added.
 
 ### Benefits
-Technomarxism provides a whole lot of benefits that
+Marxocracy provides a whole lot of benefits that
 other governance-ideologies don't provide (such
 as Oligarchy and Dictatorship). I have provided
 a list below for all people wanting to see the
@@ -106,6 +106,6 @@ benefits:
   oligarchs everybody will be equal.
 
 These benefits clearly outline some of the great things
-about Technomarxism.
+about Marxocracy.
 
-## [Next chapter: Democracy](/books/technomarxist-manifesto/democracy)
+## [Next chapter: Democracy](/books/waiting-for-marxocracy/democracy)

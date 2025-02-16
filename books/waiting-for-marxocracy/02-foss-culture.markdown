@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/technomarxist-manifesto/foss-culture
+permalink: /books/waiting-for-marxocracy/foss-culture
 title: ""
 ---
 
@@ -137,4 +137,4 @@ which can lead to innocent people getting hurt, and guilty people
 getting away. Whatever you do, do *not* fall into the tribalism
 mentality: It can lead to people getting hurt.
 
-## [Next chapter: Communism](/books/technomarxist-manifesto/communism)
+## [Next chapter: Communism](/books/waiting-for-marxocracy/communism)
