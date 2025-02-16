@@ -102,7 +102,7 @@ source a few months ago and it's... Not open source. It should be pretty easy
 to understand how Winamp isn't FOSS by just... Reading the 6th section of the
 license.
 
-\6. Restrictions  
+#6. Restrictions  
 - No Distribution of Modified Versions: You may not distribute modified versions of the
 software, whether in source or binary form.
 - No Forking: You may not create, maintain, or distribute a forked version of the software.
