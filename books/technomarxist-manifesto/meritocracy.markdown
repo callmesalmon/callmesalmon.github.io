@@ -51,4 +51,19 @@ which also leads to a hierarchy (and hierarchies are... Bad!?).
 It's unclear who makes the rules in a meritocracy. Is it the lead
 developer, is it the people that have been contributing broken
 code (yet a lot of it) or is it the people that contribute less,
-yet better quality code? Even though I wish 
+yet better quality code? Even though I wish the 3rd group would
+be the one that controls the project (even though that is not optimal,
+as we should all lead the project together), it's not! Yet it's always
+unclear if the 1st or 2nd person/group controls the project. It's
+incredible disorganized and I'm honestly shocked that it is such
+a popular way of governing. Even *Godot* (which we've already
+defined as an oligarchy, though) claims to be a meritocracy:
+
+*"But this is not all, Godot development is a true meritocracy. Code is only merged when deemed worthy by the
+other developers. Every change is discussed for pros and cons.
+This process is led by our large user community, who usually sets our priorities via issues (or just random rants
+on our community sites :P). This same community helps with the testing and works directly with developers
+implementing each feature to ensure it works as best as possible. Our process is truly community-driven from
+beginning to end."*
+
+
