@@ -17,7 +17,7 @@ big companies donating €10,000,000 to your cause (totally not because they wan
 to control your project).
 
 ## How do you read this?
-This books is split into different chapters, covering different problems and
+This book is split into different chapters, covering different problems and
 solutions of the FOSS-community. You are free to read them in non-chronological
 order, but I strongly recommend to read them in order.
 
