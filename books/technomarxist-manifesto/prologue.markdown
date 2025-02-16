@@ -6,7 +6,7 @@ title: ""
 
 # The Technomarxist Manifesto
 Have you ever thought about how FOSS-projects are run? Are they democracies, dictatorships,
-or maybe even oligarchs? What is the optimal way of running a FOSS-project? The
+or maybe even oligarchs? What is the optimal way of running a FOSS-project?
 Also, how do we enact the correct policy, remain human and not die in the process?
 Technomarxist Manifesto is a deep dive into this and more: Like communism in FOSS.
 

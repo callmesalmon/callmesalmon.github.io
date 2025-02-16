@@ -28,4 +28,20 @@ if this is a good system or not based of this:
 
 Have you thought about your answer? Well, it's... VERY BAD!
 
-### The inequality
+### In-equal
+We need to stop treating people differently based on how much
+they've contributed to a project (contributions = merit in this
+case). This is just straight up inequality and discourages
+newcomers as they're treated much worse than the "devotees"
+of the pack. It's almost like... A class system! This goes
+against the principles of Technomarxism, as not everyone
+is treated equally. FOSS-meritocracy leads to an eerily
+similar class-system as to our real-world, where the
+bourgeoise (devotees) are seen as "better" than the
+proletariat (newcomers).
+
+### Undemocratic
+Meritocracy is largely undemocratic. What I mean by this is that
+the newcomers almost have *no* say in anything, while the devotees
+(or aristocrats in this situation) have *all* the say in the matter,
+leading to a largely undemocratic system with large "class divide."
