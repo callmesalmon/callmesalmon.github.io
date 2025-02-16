@@ -1,7 +1,7 @@
 ---
 layout: base
 permalink: /books/technomarxist-manifesto/democracy
-title:
+title: ""
 ---
 
 # Democracy
