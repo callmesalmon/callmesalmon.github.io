@@ -85,7 +85,7 @@ Linus B. Torvalds is a Finnish programmer and father of the Linux kernel and the
 Git version control system. He seems like a good person. Well, that's because he
 is! But... Somewhere in his career something strange happened. A war in Ukraine.
 He decided (rightfully) that it was morally wrong to support Russia when they
-are attacking Ukraine. He (somewhat impulsively, I shall admit) excluded Russian
+were attacking Ukraine. He (somewhat impulsively, I shall admit) excluded Russian
 maintainers of the Linux Kernel because: "I'm Finnish. Did you think I'd be
 supporting Russian aggression?". I completely agree with this, though the
 way he acted was a bit impulsive.
