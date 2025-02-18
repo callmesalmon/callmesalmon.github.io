@@ -8,7 +8,8 @@ title: ""
 Have you ever thought about how FOSS-projects are run? Are they democracies, dictatorships,
 or maybe even oligarchs? What is the optimal way of running a FOSS-project?
 Also, how do we enact the correct policy, remain human and not die in the process?
-Waiting For Marxocracy is a deep dive into this and more: Like communism in FOSS.
+Waiting For Marxocracy tries to lay out a reliable ideology for FOSS-projects to
+follow to both prosper and remain democratic.
 
 ## TL;DR
 The optimal way of running a FOSS project is trough direct democracy, we should

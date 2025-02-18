@@ -11,4 +11,6 @@ They are linked below.
 ## [Waiting For Marxocracy](waiting-for-marxocracy/prologue):  
 A view into the political status and dicatorships of the FOSS
 community from the perspective of me -- a Marxist. This free
-eBook dives into FOSS-democracy, meritocracy and BDFLs.
+eBook dives into FOSS-democracy, meritocracy and BDFLs and
+tries to lay out a reliable system which can be used by
+FOSS-projects worldwide while still remaining democratic.

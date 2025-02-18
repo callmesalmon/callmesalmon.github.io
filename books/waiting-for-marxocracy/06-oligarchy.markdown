@@ -93,10 +93,10 @@ killing our open-source initiative and turning the FOSS-community into just anot
 monopolized puppet. Counter-authoritarians, we must unite to rid this
 market-authoritarian threat of the monopolies! We must save FOSS, and thus save
 the internet in the process! They don't know that *we* control the internet, *we*
-have the fundamentals it! *We* have most of the programming languages, and they cannot
-take that away from *us*! *We* have Linux, GNU and so much more! They cannot break
-us! This is a formal call to action, to all of you counter-authoritarians! *We*
-own the software, and no one can steal that from us! Remember who controls
+have the fundamentals for it! *We* have most of the programming languages, and they
+cannot take that away from *us*! *We* have Linux, GNU and so much more! They cannot
+break us! This is a formal call to action, to all of you counter-authoritarians!
+*We* own the software, and no one can steal that from us! Remember who controls
 the modern world? *Us*.  
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
 Well, that sounded awfully radical. But yes, I'm being completely honest and  

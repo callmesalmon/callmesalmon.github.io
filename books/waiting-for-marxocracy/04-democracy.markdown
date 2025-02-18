@@ -59,7 +59,7 @@ FOSS project. I will call this roadmap "The FOSS-corruption cycle":
 
 1. A FOSS project is formed.
 2. It gets larger.
-3. It assumes democracy.
+3. It assumes X governance system (X = democracy right now).
 4. It gets even larger.
 5. It opens up a donation option.
 6. Large corporation donates ~€10,000,000.
