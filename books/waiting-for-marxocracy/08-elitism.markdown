@@ -11,6 +11,7 @@ in FOSS, other weird behaviours include:
 - Tribalism (see [FOSS-culture](/books/waiting-for-marxocracy/FOSS-culture))
 - Cultism
 - Totalitarianism
+
 "I'm the elite! I call the shots around here!", is one of the many
 phrases uttered out of these dirty elitists' mouths.
 
