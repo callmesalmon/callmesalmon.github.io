@@ -49,13 +49,13 @@ such (sadly enough):
 
 (*E*: Elitist, *N*: Non-elitist)
 
-*N*: \*Opens pull request adding new features\*
-*E*: Rejected!
-*N*: Why?
-*E*: Because I said so, and I know best!
-*E*: This is a meritocracy, and I'm a frequent contributor!
-*E*: And as such, I am superior to you.
-*N*: That sounds like bullshit.
+*N*: \*Opens pull request adding new features\*  
+*E*: Rejected!  
+*N*: Why?  
+*E*: Because I said so, and I know best!  
+*E*: This is a meritocracy, and I'm a frequent contributor!  
+*E*: And as such, I am superior to you.  
+*N*: That sounds like bullshit.  
 *E*: Y-you're bullshit!
 
 You know... I'm starting to notice a correlation between FOSS and the USA Republican
