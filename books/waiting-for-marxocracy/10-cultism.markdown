@@ -40,4 +40,4 @@ sexual abuse material sympathizer!"*... So yeah, Stallman is mentally ill, and h
 -- as a FOSS-cultism investigator -- care about what the response from the community was.
 NOTHING, NOTHING, NOTHING!
 
-[![You get nothing! You lose! Good day sir!](https://cdn.quotesgram.com/small/62/64/1631645318-j9078.jpg)](/)
+[![You get nothing! You lose! Good day sir!](/images/wonka.jpg)](/)
