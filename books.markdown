@@ -14,3 +14,5 @@ community from the perspective of me -- a Marxist. This free
 eBook dives into FOSS-democracy, meritocracy and BDFLs and
 tries to lay out a reliable system which can be used by
 FOSS-projects worldwide while still remaining democratic.
+
+[![Waiting for Marxcocracy](/images/wfm-cover.png)](/)
