@@ -74,3 +74,37 @@ respect.
 This is a recruiting technique, do *not* fall for it. This fascist is trying to convert
 you by using a technique called "negging and love-bombing", involving firstly being
 mean to you, then being "nice" to you. This is used in *actual* FOSS-cults as well.
+
+## The clear intersection
+In this book so far, you might have noticed an... Intersection between the *alt-right
+(Republicans)* and the FOSS-community. They act the same! THE SAME! Haven't you noticed
+yet? There's a lot of similarities between our pal DJ. T and Richard Stallman. For example,
+the
+
+- tribalism,
+- negligence,
+- conservatism,
+- cultism and sometimes
+- downright fascism!
+
+This chapter on "cultism" was *actually* the chapter on the correlation between fascists and
+the FOSS-community! It's quite frankly *insane* that people forgive Stallman because he
+"is an icon"... Just like our pal DJ. T! Just *look* at this blog post by Stallman himself:
+
+05 June 2006 (Dutch pedophiles form political party)
+
+Dutch pedophiles have [formed a political party](https://web.archive.org/web/20070320070854/http://www.iol.co.za:80/index.php?click_id=3&art_id=qw1148983921965B233)
+to campaign for legalization.
+\[Reference updated on 2018-04-25 because the [old link](https://www.iol.co.za/index.php?click_id=3&art_id=qw1148983921965B233)
+was broken.]
+
+I am skeptical of the claim that voluntarily pedophilia harms children. The arguments that it
+causes harm seem to be based on cases which aren't voluntary, which are then stretched by parents
+who are horrified by the idea that their little baby is maturing.
+
+Granted, he did [denounce this later](https://www.stallman.org/archives/2019-sep-dec.html#14_September_2019_(Sex_between_an_adult_and_a_child_is_wrong)),
+but the purpose of me bringing this up is that... THE FOSS-CULTISTS DEFENDED HIM! Th-that's
+insane... You cannot defend people with this kind of problematic behaviour, neither Trump
+nor Stallman! Dear programmers, don't defend pedophile-sympathizers.
+
+## [Next chapter: Liberty](/books/waiting-for-marxocracy/liberty)
