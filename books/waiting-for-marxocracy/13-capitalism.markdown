@@ -5,7 +5,7 @@ title: ""
 ---
 
 # Venture capitalism
-[![Remember kids! Profits are the unpaid wages of the working class!](/images/capitalism.png)](/)
+[![Remember kids! Profits are the unpaid wages of the working class!](/images/surplus.png)](/)
 
 I'm a Marxist, I've said that before. Who could've guessed that I'd include
 a whole chapter in my manifesto about the evils of capitalism and how it's
