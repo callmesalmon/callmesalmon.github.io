@@ -63,6 +63,23 @@ some restriction allowing for a project to thrive.*
 This is another fundamental principle of Marxocracy: The belief that
 there shouldn't be *many* restrictions on software, but that you can
 sacrifice total liberty for a higher quality product and to assure
-for the thriving of the FOSS-project.
+for the thriving of the FOSS-project. I've said it before and I'll
+say it again,
 
-## Conliberty and you
+*QUALITY OVER EXTENSIBILITY, FOR THE LOVE OF GOD!!!*
+
+Which I personally believe is a really good core principle to hold.
+
+## Consumption principles of Marxocracy
+I'd like to present 5 core principles in Marxocracy for consumption,
+these should be followed closely. They are
+
+1. Any unnecessary customization is bad customization.
+2. Lightweightedness in a FOSS-project is -- of course -- one of the most
+fundamental parts of a good such. Overextensibility often leads to less
+lightweightedness, and as such: Leads to less quality.
+3. Conrestrictionism is a fundamentally good principle and should be the
+core of Consumption-Marxocracy.
+4. QUALITY OVER EXTENSIBILITY, FOR THE LOVE OF GOD!!!
+5. The most important fundamental of Conrestrictionism is that some liberties
+must be sacrificed for the good of the project as a whole.
