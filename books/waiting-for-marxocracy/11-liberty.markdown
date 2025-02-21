@@ -83,3 +83,21 @@ core of Consumption-Marxocracy.
 4. QUALITY OVER EXTENSIBILITY, FOR THE LOVE OF GOD!!!
 5. The most important fundamental of Conrestrictionism is that some liberties
 must be sacrificed for the good of the project as a whole.
+
+## A satirical piece
+... You know, I was planning to put a satirical piece right here, but the problem
+with libertarianism -- unlike Godotism -- is that it's not very funny, it's just
+plain *bad*. I guess I'll use this section to highlight the core problems with
+Conlibertism, I guess. These are:
+
+1. In their eyes, *"Any customization is good customization."*
+2. It leads to a worse project overall.
+3. They prefer extensibility over quality.
+
+It's quite honestly a sad reflection upon our society that these kinds of
+philosophies have thrived, since they're largely reactionary. They poke up in
+response to authoritarianism in FOSS, and I honestly can't blame them. What
+Marxocracy *tries* to achieve is a balance between these two -- now debunked --
+ideas.
+
+## [Next chapter: The emperor](/books/waiting-for-marxocracy/the-emperor)
