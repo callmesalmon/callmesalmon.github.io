@@ -5,11 +5,10 @@ title: ""
 ---
 
 # Waiting For Marxocracy
-Have you ever thought about how FOSS-projects are run? Are they democracies, dictatorships,
-or maybe even oligarchs? What is the optimal way of running a FOSS-project?
-Also, how do we enact the correct policy, remain human and not die in the process?
-Waiting For Marxocracy tries to lay out a reliable ideology for FOSS-projects to
-follow to both prosper and remain democratic.
+A view into the political landscape of FOSS and IT as a whole. In this book, I explore
+concepts such as democracy, oligarchy and corporate interest with a FOSS spin to it.
+I also try to design an ultimate governing system for FOSS and IT as a whole. This
+book also serves as a manifesto of sorts, presenting clear ideas on how to run a project.
 
 ## TL;DR
 The optimal way of running a FOSS project is trough direct democracy, we should
@@ -23,8 +22,12 @@ solutions of the FOSS-community. You are free to read them in non-chronological
 order, but I strongly recommend to read them in order.
 
 ## Get started
-So, have you decided to read this eBook? Are you ready to explore different
+So, have you decided to read this book? Are you ready to explore different
 ways of controlling FOSS in the most fair way possible? If so, you can go to
 the first chapter by clicking the "Next chapter" link below. Thanks for reading!
+
+## License
+This book is licensed under the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+license.
 
 ## [Next chapter: FOSS culture](/books/waiting-for-marxocracy/foss-culture)

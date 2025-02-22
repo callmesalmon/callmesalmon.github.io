@@ -9,11 +9,10 @@ and I guess that you -- if you have eyes -- can experience them.
 They are linked below.
 
 ## [Waiting For Marxocracy](waiting-for-marxocracy/prologue):  
-A view into the political status and dicatorships of the FOSS
-community from the perspective of me -- a Marxist. This free
-eBook dives into FOSS-democracy, meritocracy and BDFLs and
-tries to lay out a reliable system which can be used by
-FOSS-projects worldwide while still remaining democratic.
-It's a manifesto of sorts, but also an analysis.
+A view into the political landscape of FOSS and IT as a whole.
+In this book, I explore concepts such as democracy, oligarchy
+and corporate interest with a FOSS spin to it. I also try to
+design an ultimate governing system for FOSS and IT as a
+whole. This book also serves as a manifesto of sorts.
 
 [![Waiting for Marxcocracy](/images/wfm-cover.png)](/)
