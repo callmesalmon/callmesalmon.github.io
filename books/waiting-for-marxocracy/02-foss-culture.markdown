@@ -42,7 +42,7 @@ contributing.
 You know the USA? I don't live there, but I certainly know
 it. There's a certain politician there who has followers
 so tribal, so forgiving to their holy leader: That they'll
-forgive him for commiting multiple felonies. His name is
+forgive him for committing multiple felonies. His name is
 Donald J. Trump and he is now -- somehow -- the president
 of the USA. What I'm trying to convey is that the FOSS
 community is almost as tribal as the USA Republican party
