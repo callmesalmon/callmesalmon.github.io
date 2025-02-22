@@ -72,7 +72,7 @@ challenged by other members of the mailing list, he added "It is morally absurd 
 that depends on minor details such as which country it was in or whether the victim was 18 years old or 17",
 holding that it was not relevant to the harm that was done to the victim.*
 
-Doesn't that seem like... Pedophilia? Or at least pedophilia sympathizing? Whether he's
+Doesn't that seem like... Pedophilia? Or at least pedophilia sympathizing? Whether he's a
 pedophile or a pedophile sympathizer: (shocker) It's morally wrong to sympathize with
 Jeffrey Epstein!!!
 
