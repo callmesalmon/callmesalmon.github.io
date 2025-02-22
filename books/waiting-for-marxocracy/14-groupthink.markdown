@@ -54,6 +54,7 @@ apologist is someone "who speaks or writes in defense of a faith, a cause, or an
 actions of one or more movements considered to be cults - as defined sociologically
 and/or theologically.*  
 \- [apologeticsindex.org](https://web.archive.org/web/20040603040900/http://www.apologeticsindex.org/cultapologists/)
+
 ... Are you one? Think about this for just a second. Are you a cult apologist?
 Because GNU has many. *"Stallman knows best"* this, *"I'm going to kill you in
 your sleep for criticizing our holy leader: Stallman"* that. It's always "Stallman
@@ -64,6 +65,7 @@ of the art community! He still killed those 6M jews, you know.
 religious tolerance. However, they tend to be particularly intolerant toward those who question
 and critique the movements they defend.*  
 \- [apologeticsindex.org](https://web.archive.org/web/20040603040900/http://www.apologeticsindex.org/cultapologists/)
+
 This is the quote that made me able to predict that "if this manifesto gains traction, I'll get
 *at least* 3 death threats", and it's honestly a sad reflection upon reality that my prediction
 is probably true. The thing with cult apologists is that they -- either intentionally or
@@ -82,6 +84,7 @@ reads like part of that organization's press kit),
 faulty research, unsupported conclusions and/or outright misrepresentation*
 
 \- [apologeticsindex.org](https://web.archive.org/web/20040603040900/http://www.apologeticsindex.org/cultapologists/)
+
 Being a cult apologist is -- in a way -- just being a cultist. Even though you might
 unintentionally be an apologist you -- as I've said before -- still participate in
 the doctrine and groupthink of that cult. Saying *"I don't see anything wrong with
