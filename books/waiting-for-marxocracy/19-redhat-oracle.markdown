@@ -106,7 +106,7 @@ officials**!
 providing impermissible benefits to government officials in several countries, regulators
 announced Tuesday, marking the second such multimillion-dollar fine for the American software
 giant.*  
-- Forbes, [SEC Fines Oracle $23 Million, Says Company Bribed Foreign Officials](https://www.forbes.com/sites/dereksaul/2022/09/27/sec-fines-oracle-23-million-says-company-bribed-foreign-officials/)
+\- Forbes, [SEC Fines Oracle $23 Million, Says Company Bribed Foreign Officials](https://www.forbes.com/sites/dereksaul/2022/09/27/sec-fines-oracle-23-million-says-company-bribed-foreign-officials/)
 (2022)
 
 That is... It is... Hmm... That is... Certainly something. Oh, and there are *many* more.
