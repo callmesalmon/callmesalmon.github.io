@@ -81,7 +81,7 @@ on the USA).
 
 *Red Hat was always a company of B and C players. It's a company staffed by
 idiots, for idiots.*  
-- "Annatar", comment on [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb) (2024)
+\- "Annatar", comment on [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb) (2024)
 
 # Oracle
 *"But hey, at least Redhat isn't **ORACLE**!"* is a statement I agree with. Because there
