@@ -29,7 +29,7 @@ Examples of antiuniocratic governing systems include:
 - Oligarchy
 - Plutocracy
 - Mossarchy
-- Fossarchy
+- Fossarchy  
 It's honestly insane how antiuniocratic our modern FOSS-sphere has become.
 I mean, who doesn't want collective ownership? Hmm... I guess the
 - Dictators,
