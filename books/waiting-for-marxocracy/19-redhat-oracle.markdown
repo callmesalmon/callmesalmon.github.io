@@ -43,7 +43,7 @@ see ["Redhat emerging technologies"](https://next.redhat.com/projects-full/). Al
 If you're trying *not* to look like an evil supervillain, maybe work on your logo
 so that it doesn't look, pfft! Comically evil!
 
-[![Redhat's comically evil logo!](/images/redhat.png)](/)
+[![Redhat's comically evil logo!](/images/evil-redhat.png)](/)
 
 *Pictured: Comically evil logo for a comically evil corporation. I'd go
 as far as to call them neo-[fordist](https://en.wikipedia.org/wiki/Fordism)
