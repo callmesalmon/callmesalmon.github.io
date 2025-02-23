@@ -105,4 +105,4 @@ So please. Remain human. Don't be greedy. I'd like to end this chapter with the
 they fall will go a long way toward dispelling these misconceptions and **we will
 all reap the benefits** of broadening the scope of our collaborations.*
 
-## [Next chapter: Redhat](/books/waiting-for-marxocracy/redhat)
+## [Next chapter: Redhat and Oracle](/books/waiting-for-marxocracy/redhat-oracle)
