@@ -115,7 +115,7 @@ the pseudo-enjoyment of reading this book.
 Combatting against fascism is an essential part of not only marxocracy, but basic
 decency. This can be done in many different ways, for example not giving them a
 platform or publicly persecuting them in the name of egalitarianism. Another
-*very good* way is by using the [Antifa MIT license](https://https://github.com/jamiebuilds/anti-fascist-mit-license)
+*very good* way is by using the [Antifa MIT license](https://github.com/jamiebuilds/anti-fascist-mit-license)
 to keep dirty fascists away from your source code. Speak openly against fascism,
 saying things like *"I don't want fascism in MY FOSS!"*, or something like that,
 I'm not a rhetorical expert.
