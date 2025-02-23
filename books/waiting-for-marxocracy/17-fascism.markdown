@@ -62,12 +62,12 @@ PERSON.'"*
 Adolf Hitler? They talk a lot about vermin and they’re both fascist."*  
 \- Me (Elis Staaf), Waiting for marxocracy (2025)
 
-Above is *every single* mention of conservatives, Republicans and fascists. *"But
-why, Elis? Why does this matter?"* Well, I needed to highlight how many times
-I needed to talk about fascists to properly highlight their prominence in FOSS.
-These fascists are *everywhere*. It's almost like... A *lot* of people in the FOSS
-community are fascists! WHAAAAAAAAAAAAAAAAAAAAAAT!? But yeah... It's true.
-They are scarily prominent.
+Above is *every single* mention of conservatives, Republicans and fascists in this
+book. *"But why, Elis? Why does this matter?"* Well, I needed to highlight how many
+times I needed to talk about fascists to properly highlight their prominence in
+FOSS. These fascists are *everywhere*. It's almost like... A *lot* of people in
+the FOSS community are fascists! WHAAAAAAAAAAAAAAAAAAAAAAT!? But yeah... It's
+true. They are scarily prominent.
 
 [![Benito...](/images/mussolini.jpg)]
 

@@ -19,7 +19,11 @@ to control your project).
 ## How do you read this?
 This book is split into different chapters, covering different problems and
 solutions of the FOSS-community. You are free to read them in non-chronological
-order, but I strongly recommend to read them in order.
+order, but I strongly recommend to read them in order. This book is also split
+into 3 different writing types and subjects, they are:
+- FOSS
+- Politics
+- Philosophy
 
 ## Get started
 So, have you decided to read this book? Are you ready to explore different
