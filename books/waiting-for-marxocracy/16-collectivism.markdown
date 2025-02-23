@@ -37,7 +37,7 @@ I mean, who doesn't want collective ownership? Hmm... I guess the
 - Oligarchs,
 - Plutocrats,
 - Mossarchs and
-- Fossarchs
+- Fossarchs  
 but why? Isn't it just good? Well, these people believe that collective ownership
 is bad, but for different reasons. But the core reason is basically "I'm better
 than the normal contributor!", or at least that's it for Dictatorships, Meritocracies,
