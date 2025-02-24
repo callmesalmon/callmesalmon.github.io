@@ -96,8 +96,7 @@ Do FOSS cults actually exist? Are fascists actually prevalent in FOSS? I actuall
 about something original, for once! And not just something original, something important!
 And not just something important, something *special*.
 
-So, without further ado, let's get onto the sumarization/ending of this book. The ending is
-split into two parts since it's pretty long, but if you've read *this* far, I doubt you'll
-have any problems reading the ending. Thank you for reading.
+So, without further ado, let's get onto the sumarization/ending of this book. It's good,
+I hope... It compiles all of my ideas into a short manifesto, at least!
 
-## [Next chapter: Manifesto I](/books/waiting-for-marxocracy/manifesto-i)
+## [Next chapter: Manifesto](/books/waiting-for-marxocracy/manifesto)
