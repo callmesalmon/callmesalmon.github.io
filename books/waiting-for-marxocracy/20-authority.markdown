@@ -102,7 +102,8 @@ credits:
   - Key Laboratory of High Confidence Software
   - Technologies, Ministry of Education
   - Beijing, China
-  - zhmh@pku.edu.cn  
+  - zhmh@pku.edu.cn
+
 \*Corresponding authors
 
 ## [Next chapter: The status quo](/books/waiting-for-marxocracy/status-quo)
