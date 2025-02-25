@@ -5,7 +5,7 @@ title: ""
 ---
 
 # Waiting For Marxocracy
-Welcome, and thanky you for reading my book! This is a view into the political
+Welcome, and thank you for reading my book! This is a view into the political
 landscape of FOSS and IT as a whole. In this book, I explore concepts such as
 democracy, oligarchy and corporate interest with a FOSS spin to it. I also try
 to design an ultimate governing system for FOSS and IT as a whole. This book
