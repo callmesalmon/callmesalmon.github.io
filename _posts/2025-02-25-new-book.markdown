@@ -10,7 +10,7 @@ Yeah... You read the title. That's the blog post. I made an eBook about
 the prevalence of politics in FOSS, it's pretty good, but pretty short.
 If you want to read it, it's linked below.
 
-## [Waiting for Marxocracy](/books/waiting-for-marxocracy)
+## [Waiting for Marxocracy](/books/waiting-for-marxocracy/prologue)
 
 Yeah, sorry for the long wait for just a short blog post. I just wanted to
 shamelessly promote my eBook.
