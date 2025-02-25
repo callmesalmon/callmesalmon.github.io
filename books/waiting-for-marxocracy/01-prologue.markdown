@@ -5,10 +5,12 @@ title: ""
 ---
 
 # Waiting For Marxocracy
-A view into the political landscape of FOSS and IT as a whole. In this book, I explore
-concepts such as democracy, oligarchy and corporate interest with a FOSS spin to it.
-I also try to design an ultimate governing system for FOSS and IT as a whole. This
-book also serves as a manifesto of sorts, presenting clear ideas on how to run a project.
+Welcome, and thanky you for reading my book! This is a view into the political
+landscape of FOSS and IT as a whole. In this book, I explore concepts such as
+democracy, oligarchy and corporate interest with a FOSS spin to it. I also try
+to design an ultimate governing system for FOSS and IT as a whole. This book
+also serves as a manifesto of sorts, presenting clear ideas on how to run a
+project.
 
 ## TL;DR
 The optimal way of running a FOSS project is trough direct democracy, we should
