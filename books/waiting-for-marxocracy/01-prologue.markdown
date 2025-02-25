@@ -18,7 +18,7 @@ own most software collectively and not let ourselves get corrupted by oligarchs 
 big companies donating €10,000,000 to your cause (totally not because they want
 to control your project). If you just want to read a short summarization of my
 ideas, theories and the construction of Marxocracy: An ideal governing system,
-you are free to read the short [manifesto](/books/waiting-for-marxocracy/prologue) at the end of this book.
+you are free to read the short [manifesto](/books/waiting-for-marxocracy/manifesto) at the end of this book.
 
 ## How do you read this?
 This book is split into different chapters, covering different problems and
