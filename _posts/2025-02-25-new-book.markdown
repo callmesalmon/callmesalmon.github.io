@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "I made an eBook"
+author: Elis Staaf
+date:   2025-02-16 00:02:23 +0100
+categories: advice
+---
+
+Yeah... You read the title. That's the blog post. I made an eBook about
+the prevalence of politics in FOSS, it's pretty good, but pretty short.
+If you want to read it, it's linked below.
+
+## [Waiting for Marxocracy](/books/waiting-for-marxocracy)
+
+Yeah, sorry for the long wait for just a short blog post. I just wanted to
+shamelessly promote my eBook.
+
+... Were you expecting something more? Well, okay, here's an image of a duck.
+
+[![Duck!!!!1!!!!11!11!!](/images/duck.jpg)](/)
