@@ -68,7 +68,7 @@ rhingyll. See the following tree of events:
 I also simplified it into one labyrinth for you. Think of it like those choice
 labyrinths you see sometimes. Eh, I'll just show you:
 
-[![The labyrinth](rhingyll.png)](/)
+[![The labyrinth](/images/rhingyll.png)](/)
 
 ## [Next chapter: Cat crime](/books/cats-in-wales/cat-crime)
 
