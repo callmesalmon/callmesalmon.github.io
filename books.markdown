@@ -16,3 +16,10 @@ design an ultimate governing system for FOSS and IT as a
 whole. This book also serves as a manifesto of sorts.
 
 [![WFM cover](/images/wfm-cover.png)](/)
+
+
+## [Cats in Wales](/books/cats-in-wales/introduction)
+A view into the kingdom of Wales in the medieval times,
+especially the laws about our feline friends: cats (and, of
+course, the sale of such). This book serves as both a satirical
+piece and a historical piece about cats and the kingdom of Wales.
