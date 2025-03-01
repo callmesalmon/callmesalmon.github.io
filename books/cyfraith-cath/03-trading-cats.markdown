@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/cats-in-wales/trading-cats
+permalink: /books/cyfraith-cath/trading-cats
 title: ""
 ---
 
@@ -105,7 +105,7 @@ repay you?"*
 *"Which is..?"*  
 *"(4 / 3) * 2... So like 2.66666666..."*
 
-## [Next chapter: Cat products](/books/cats-in-wales/cat-products)
+## [Next chapter: Cat products](/books/cyfraith-cath/cat-products)
 
 Sources:
 - [Youtube (Cambrian Chronicles) -

@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/cats-in-wales/hywel-the-good
+permalink: /books/cyfraith-cath/hywel-the-good
 title: ""
 ---
 
@@ -70,7 +70,7 @@ sphere. He laid out the foundations for the cat laws of the later times (which, 
 reality, are just later 10th century times) and hey! He basically allowed me to make
 this book! But to be honest, if he didn't create cat laws, someone else would.
 
-## [Next chapter: The trading and commodifying of cats](/books/cats-in-wales/trading-cats)
+## [Next chapter: The trading and commodifying of cats](/books/cyfraith-cath/trading-cats)
 
 Sources:
 - [Wikipedia - Hywel Dda](https://en.wikipedia.org/wiki/Hywel_Dda)

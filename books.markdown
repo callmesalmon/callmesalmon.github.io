@@ -15,11 +15,12 @@ and corporate interest with a FOSS spin to it. I also try to
 design an ultimate governing system for FOSS and IT as a
 whole. This book also serves as a manifesto of sorts.
 
-[![WFM cover](/images/wfm-cover.png)](/)
+[![Waiting for marxocracy cover](/images/wfm-cover.png)](/)
 
-
-## [Cats in Wales](/books/cats-in-wales/introduction)
+## [The Cyfraith Cath](/books/cyfraith-cath/introduction)
 A view into the kingdom of Wales in the medieval times,
 especially the laws about our feline friends: cats (and, of
 course, the sale of such). This book serves as both a satirical
 piece and a historical piece about cats and the kingdom of Wales.
+
+[![Cyfraith Cath cover](/images/cyfraith-cath-cover.png)](/)

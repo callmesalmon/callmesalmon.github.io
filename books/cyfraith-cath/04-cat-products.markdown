@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/cats-in-wales/cat-products
+permalink: /books/cyfraith-cath/cat-products
 title: ""
 ---
 
@@ -70,7 +70,7 @@ labyrinths you see sometimes. Eh, I'll just show you:
 
 [![The labyrinth](/images/rhingyll.png)](/)
 
-## [Next chapter: Cat crime](/books/cats-in-wales/cat-crime)
+## [Next chapter: Cat crime](/books/cyfraith-cath/cat-crime)
 
 Sources:
 - [Youtube (Cambrian Chronicles) -

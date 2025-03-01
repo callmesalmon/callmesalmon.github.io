@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/cats-in-wales/cat-crime
+permalink: /books/cyfraith-cath/cat-crime
 title: ""
 ---
 
