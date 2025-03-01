@@ -25,7 +25,7 @@ hence the fur can't make a coat, everything about them is pure uselessness! Besi
 mice, their only use is being cute, and I can tell you, these medieval people did *not* see
 cats as cute! This is a *REAL* painting made by a *REAL* person in the middle ages:
 
-[![Medieval cat](/images/medieval-cat.png)](/)
+[![Medieval cat](/images/cutest-cat.png)](/)
 
 A *REAL* painting. From the middle ages. A *REAL* painting. Well, enough of that, let's
 continue to ramble about other middle-age-wales-cat-law shenanigans!
