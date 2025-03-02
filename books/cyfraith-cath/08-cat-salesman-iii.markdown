@@ -40,4 +40,46 @@ Now, we need to calculate the area of the carriage using:
 2m * 4m = 8m²
 ```
 
-So the area of the carriage is 8m².
+So the area of the carriage is 8m². I couldn't find the average area
+of a cat nor a goose, but none of them -- on average -- have a larger
+area than 50cm², so we could just assign all of the animals a set space
+of 50cm². We can then use a calculation to calculate how many geese
+fit in the carriage, and since the number of cats is dependent on
+number of geese (0.5x where x = # of geese) in the carriage:
+
+```
+8m² = 800cm²
+800 / 50 = 16,
+```
+
+16 geese make for 8 cats, 8 cats make for 32 ceiniog. The maximum number
+of ceiniog per carriage (ce/ca) is 32.
+
+## Capital
+With all that said, what would you need to pay upfront for this business to work?
+What does the capital cost? Well, firstly, there are the cats. One cat is four ceiniog.
+Two cats are 4 * 2 ceiniog, 8 ceiniog. Add that to the expense list! Then, we need our
+horses. I was *not* able to find any concrete price for a horse, but I know that a
+baby horse (a foal) costs the same as a cat, that being 4 ceiniog. If horses where
+to follow the same chart for the price as a cat (or *basically* the same chart),
+I would get this:
+
+```
+4 * 2 = 8
+8 * 2 = 16
+```
+
+Meaning that an adult horse following the same chart as the cat would cost 16 ceiniog
+(not sure what the "until it starts catching mouse" step would be tough). Add that to
+the expense list! The carriage is... Ambigous. I'd like to say it would be somewhere
+in the 20s of ceiniogs, but I couldn't know for sure. A good estimate would probably
+be 25 ceiniog. That's your initial capital! Calculating the cost of starting a cat
+business is then pretty easy:
+
+```
+(8 + 16 + 25) = 39
+```
+
+So that's the price! If my calculations are correct (which, to be honest, they're
+probably not) the price for starting this cat business (or at least the price of
+the initial capital) is 39 ceiniog.
