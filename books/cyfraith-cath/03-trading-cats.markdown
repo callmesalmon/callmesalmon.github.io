@@ -86,9 +86,9 @@ mice it becomes worth 4c.
 
 ## Returning a cat
 If a cat has any "defection" (*defection* being used as *unwanted trait*), the seller
-is obligated to return... Two thirds of the price? Uhh... What? I understand that
-if your cat suddenly starts "wailing at the moon" you need compensation. But two
-thirds? Why not three fourths or maybe one half?
+is obligated to return... One third of the price? Uhh... What? I understand that
+if your cat suddenly starts "wailing at the moon" you need compensation. But one
+third? Why not one fourth or maybe one half?
 
 *"Dumnagual, which is your REAL first name to be clear, you
 sold me a defective cat."*  
@@ -101,9 +101,9 @@ MOON"*
 WELSH LANGUAGE. YOU TWMFFAT, WHICH IS A REAL INSULT IN MY TIME!"*  
 *"Gwenhwyvach, which is your real first name, what can I do to
 repay you?"*  
-*"Dumnagual, return pay me back two thirds of the price!"*  
+*"Dumnagual, return pay me back one third of the price!"*  
 *"Which is..?"*  
-*"(4 / 3) * 2... So like 2.66666666..."*
+*"4 / 3, so like 1.3333333..."*
 
 ## [Next chapter: Cat products](/books/cyfraith-cath/cat-products)
 
