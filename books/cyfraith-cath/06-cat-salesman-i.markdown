@@ -10,7 +10,7 @@ cat salesman in the welsh lands? No? Okay, well if you want to know what could
 have been if you were to invent one, read further. Yes? Okay, read further.
 
 ## Acquire cats
-So, are you to acquire your product? You have to options here.
+So, are you to acquire your product? You have two options here.
 
 ### The inbreeding method
 This method requires 8 ceiniog (or alternatively enough animals or products to trade for the

@@ -83,3 +83,13 @@ business is then pretty easy:
 So that's the price! If my calculations are correct (which, to be honest, they're
 probably not) the price for starting this cat business (or at least the price of
 the initial capital) is 39 ceiniog.
+
+## [Next chapter: The cat salesman IV](/books/cyfraith-cath/cat-salesman-iv)
+
+Sources:
+- [Ancient laws and
+institutes of Wales](https://archive.org/details/bub_gb_4_qi_6p1ZucC/page/27/mode/2up)
+- [Youtube (Cambrian Chronicles) -
+Medieval cat laws](https://www.youtube.com/watch?v=jD3b1s-s9bk&themeRefresh=1)
+- [Hubpages - The cat legislation of the medieval king
+"Hywel the Good"](https://discover.hubpages.com/animals/the-cat-legislation-of-the-medieval-king-hywel-the-good)
