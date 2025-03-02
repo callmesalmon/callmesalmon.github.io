@@ -98,9 +98,10 @@ to campaign for legalization.
 \[Reference updated on 2018-04-25 because the [old link](https://www.iol.co.za/index.php?click_id=3&art_id=qw1148983921965B233)
 was broken.]
 
-I am skeptical of the claim that voluntarily pedophilia harms children. The arguments that it
+*"I am skeptical of the claim that voluntarily pedophilia harms children. The arguments that it
 causes harm seem to be based on cases which aren't voluntary, which are then stretched by parents
-who are horrified by the idea that their little baby is maturing.
+who are horrified by the idea that their little baby is maturing."*  
+\- Richard Stallman
 
 Granted, he did [denounce this later](https://www.stallman.org/archives/2019-sep-dec.html#14_September_2019_(Sex_between_an_adult_and_a_child_is_wrong)),
 but the purpose of me bringing this up is that... THE FOSS-CULTISTS DEFENDED HIM! Th-that's
