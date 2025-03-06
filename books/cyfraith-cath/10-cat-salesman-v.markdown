@@ -19,10 +19,10 @@ ceca calculations and we're good to go (for x = # of workers)!
 ```
 (800 / 50) / x
 (80 / 5) / x
-32 / x
+16 / x
 ```
 
-If x -- for example -- is 4, our ceca is 32/4 or 8. But that isn't cash-money!
+If x -- for example -- is 4, our ceca is 16/4 or 8. But that isn't cash-money!
 We need real cash-money, which we can do trough
 
 ## The unethical way
@@ -33,10 +33,10 @@ earn the maximum number of cash-money in a ceca as possible! If we pay people
 ```
 (800 / 50) - (x * y)
 (80 / 5) - (x * y)
-32 - (x * y)
+16 - (x * y)
 ```
 
-So *now* if we have 4 workers and pay them 1 ceiniog we get 32 - (4 * 1) ceiniog
+So *now* if we have 4 workers and pay them 1 ceiniog we get (16 - (4 * 1)) * 2 ceiniog
 or 28 ceiniog. See! Now we're *really* making cash-money! We've reduced our chance
 of "muerto" (if you know what I mean) while severely underpaying workers to maximize
 our money earned!
@@ -49,8 +49,8 @@ y = ceiniog/worker):
 
 ```
 ((80 / 5) - (x * y)) * P(1)
-(32 - (x * y)) * P(1)
-(32 - (x * y)) * 0.6
+(16 - (x * y)) * P(1)
+(16 - (x * y)) * 0.6
 ```
 
 Making it less ugly (Sh = Share {as in *your share*}, Pr = Probability remainder):
@@ -78,8 +78,8 @@ actual calculation hell would be a last explanation of the ``Ce()`` function, as
 Ce(x, y)
 -> Sh(x, y) * Pr(1)
 -> ((80 / 5) - (x * y)) * Pr(1)
--> (32 - (x * y)) * Pr(1)
--> (32 - (x * y)) * 0.6
+-> (16 - (x * y)) * Pr(1)
+-> (16 - (x * y)) * 0.6
 ```
 
 ## [Next chapter: The new code](/books/cyfraith-cath/new-code)
