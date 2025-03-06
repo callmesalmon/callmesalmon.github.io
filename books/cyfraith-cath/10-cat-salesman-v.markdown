@@ -17,12 +17,12 @@ more ethical than a worker owned business, so that could work! Add that to our
 ceca calculations and we're good to go (for x = # of workers)!
 
 ```
-(800 / 50) / x
-(80 / 5) / x
-16 / x
+((800 / 50) / x) * 2
+((80 / 5) / x) * 2
+(16 / x) * 2
 ```
 
-If x -- for example -- is 4, our ceca is 16/4 or 8. But that isn't cash-money!
+If x -- for example -- is 4, our ceca is (16/4) * 2 or 8. But that isn't cash-money!
 We need real cash-money, which we can do trough
 
 ## The unethical way
@@ -31,9 +31,9 @@ earn the maximum number of cash-money in a ceca as possible! If we pay people
 *unfairly* we can do something like (for x = # of workers, y = ceiniog/worker):
 
 ```
-(800 / 50) - (x * y)
-(80 / 5) - (x * y)
-16 - (x * y)
+((800 / 50) - (x * y) * 2
+((80 / 5) - (x * y)) * 2
+(16 - (x * y)) * 2
 ```
 
 So *now* if we have 4 workers and pay them 1 ceiniog we get (16 - (4 * 1)) * 2 ceiniog
@@ -48,9 +48,9 @@ probability calculations to our ceca calculations, something like (for x = # of 
 y = ceiniog/worker):
 
 ```
-((80 / 5) - (x * y)) * P(1)
-(16 - (x * y)) * P(1)
-(16 - (x * y)) * 0.6
+(((80 / 5) - (x * y)) * P(1)) * 2
+((16 - (x * y)) * P(1)) * 2
+((16 - (x * y)) * 0.6) * 2
 ```
 
 Making it less ugly (Sh = Share {as in *your share*}, Pr = Probability remainder):
@@ -58,16 +58,17 @@ Making it less ugly (Sh = Share {as in *your share*}, Pr = Probability remainder
 ```
 Sh(a, b) = { (80 / 5) - (a * b) },
 Pr(a) = { a - P(1) },
-Sh(x, y) * Pr(1)
+(Sh(x, y) * Pr(1)) * 2
 ```
 
 And if you're lazy, you could put this into a function! I will be doing that since
-I also want a better way of formulating cecas. Here it is:
+I also want a better way of formulating cecas. Here it is (it also factors in the
+trading of geese to double profits):
 
 ```
 Sh(a, b) = { (80 / 5) - (a * b) },
 Pr(a) = { a - P(1) },
-Ce(a, b) = { Sh(a, b) * Pr(1) }
+Ce(a, b) = { (Sh(a, b) * Pr(1)) * 2 }
 ```
 
 So now with our four underpaid workers (``Ce(x, y)``), we'd get around 17 ceiniog on average.
@@ -76,10 +77,10 @@ actual calculation hell would be a last explanation of the ``Ce()`` function, as
 
 ```
 Ce(x, y)
--> Sh(x, y) * Pr(1)
--> ((80 / 5) - (x * y)) * Pr(1)
--> (16 - (x * y)) * Pr(1)
--> (16 - (x * y)) * 0.6
+-> (Sh(x, y) * Pr(1)) * 2
+-> (((80 / 5) - (x * y)) * Pr(1)) * 2
+-> ((16 - (x * y)) * Pr(1)) * 2
+-> ((16 - (x * y)) * 0.6) * 2
 ```
 
 ## [Next chapter: The new code](/books/cyfraith-cath/new-code)
