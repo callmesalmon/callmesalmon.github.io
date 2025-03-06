@@ -53,11 +53,12 @@ y = ceiniog/worker):
 (32 - (x * y)) * 0.6
 ```
 
-Making it less ugly (Sh = Share {as in *your share*}):
+Making it less ugly (Sh = Share {as in *your share*}, Pr = Probability remainder):
 
 ```
 Sh(a, b) = { (80 / 5) - (a * b) },
-Sh(x, y) * P(1)
+Pr(a) = { a - P(1) },
+Sh(x, y) * Pr(1)
 ```
 
 And if you're lazy, you could put this into a function! I will be doing that since
@@ -65,7 +66,8 @@ I also want a better way of formulating cecas. Here it is:
 
 ```
 Sh(a, b) = { (80 / 5) - (a * b) },
-Ce(a, b) = { Sh(a, b) * P(1) }
+Pr(a) = { a - P(1) },
+Ce(a, b) = { Sh(a, b) * Pr(1) }
 ```
 
 So now with our four underpaid workers (``Ce(x, y)``), we'd get around 17 ceiniog on average.
@@ -74,9 +76,9 @@ actual calculation hell would be a last explanation of the ``Ce()`` function, as
 
 ```
 Ce(x, y)
--> Sh(x, y) * P(1)
--> ((80 / 5) - (x * y)) * P(1)
--> (32 - (x * y)) * P(1)
+-> Sh(x, y) * Pr(1)
+-> ((80 / 5) - (x * y)) * Pr(1)
+-> (32 - (x * y)) * Pr(1)
 -> (32 - (x * y)) * 0.6
 ```
 
