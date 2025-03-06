@@ -71,7 +71,7 @@ underestimating the pillagers on the Wales countryside.
 
 Yeah, enjoy your business, I guess.
 
-## [Next chapter: The new law](/books/cyfraith-cath/new-law)
+## [Next chapter: The cat salesman V](/books/cyfraith-cath/cat-salesman-v)
 
 Sources:
 - [Ancient laws and

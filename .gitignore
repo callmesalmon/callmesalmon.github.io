@@ -1,6 +1,26 @@
+# Jekyll nonsense
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Image processing
 *:Zone.Identifier
+
+# Secrets
+*.secret
+*.sec
+*.scrt
+*.hide
+*.hid
+*.hidden
+
+# Archive files
+#*.tar.gz
+#*.tar.zst
+*.tar
+*.gz
+*.zip
+*.7z
+*.zst
