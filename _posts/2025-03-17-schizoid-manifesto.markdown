@@ -41,14 +41,14 @@ spiel he put in the beginning of his book:
 Andrii Doroshenko is a software developer specializing in game development. In 2017, he came across Godot Engine.
 In 2018, he earned a bachelor’s degree in Computer Science from Kyiv National University of Culture and Arts. He
 played a key role in the development and support of Godot, actively contributing to Godot’s development for five
-straight years on a voluntary basis. In 2021, he officially took on the role of a Godot Engine maintainer.*
+straight years on a voluntary basis. In 2021, he officially took on the role of a Godot Engine maintainer.
 
-*Andrii is the co-author of Godot Engine. In 2022, he ranked in the Top 20 contributors by the number of changes
+Andrii is the co-author of Godot Engine. In 2022, he ranked in the Top 20 contributors by the number of changes
 to Godot Engine. He has submitted over 200 pull requests and proposed dozens of popularly demanded features. He
 revamped the unit testing system in Godot, turning it into a fully functional feature. He has played a crucial
-role in improving Godot’s build system and is the brains behind the custom modules feature.*
+role in improving Godot’s build system and is the brains behind the custom modules feature.
 
-*Among other notable contributions, he implemented features like boolean operations on polygons, as seen in the
+Among other notable contributions, he implemented features like boolean operations on polygons, as seen in the
 Geometry singleton. Many of the destructible features you come across in games made with Godot are there thanks to
 Andrii’s contributions to Godot\[.]
 ```
