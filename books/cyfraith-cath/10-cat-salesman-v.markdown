@@ -83,7 +83,7 @@ Ce(x, y)
 -> ((16 - (x * y)) * 0.6) * 2
 ```
 
-## [Next chapter: The new code](/books/cyfraith-cath/new-code)
+## [Next chapter: Conclusion](/books/cyfraith-cath/conclusion)
 
 Sources:
 - [Ancient laws and
