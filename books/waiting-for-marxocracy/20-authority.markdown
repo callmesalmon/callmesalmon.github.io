@@ -53,7 +53,7 @@ policy of 100%™ of all IT-based corporations.
 ## The project_x™s of the world
 I have been talking about this caricature; *project_x™* for the whole chapter, but why?
 Well, there are way to many project_x™s of the world, so it's hard to pick one to
-criticize. That's why project_x™ is the name is chose. I was planning to list
+criticize. That's why project_x™ is the name I chose. I was planning to list
 project_x™s now, but there are just too many. *Way* too many. For further reading,
 see ["Corporate Dominance in Open Source Ecosystems:
 A Case Study of OpenStack"](https://dl.acm.org/doi/pdf/10.1145/3540250.3549117).
