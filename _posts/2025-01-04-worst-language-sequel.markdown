@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Worst language ever: The sequel"
-author: Elis Staaf
+author: Salmon
 date:   2025-01-04 17:21:56 +0100
 categories: projects
 ---

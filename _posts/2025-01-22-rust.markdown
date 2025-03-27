@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Rust situation is crazy"
-author: Elis Staaf
+author: Salmon
 date:   2025-01-22 22:52:10 +0100
 categories: ramblings
 ---

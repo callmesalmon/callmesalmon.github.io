@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I tried to make a game engine"
-author: Elis Staaf
+author: Salmon
 date:   2025-01-12 19:56:09 +0100
 categories: projects
 ---

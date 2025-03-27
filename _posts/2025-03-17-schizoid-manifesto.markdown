@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The schizoid manifesto"
-author: Elis Staaf
+author: Salmon
 date:   2025-03-17 16:50:23 +0100
 categories: analysis
 ---

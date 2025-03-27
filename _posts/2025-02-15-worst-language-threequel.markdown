@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To make a bad language: III"
-author: Elis Staaf
+author: Salmon
 date:   2025-02-16 00:02:23 +0100
 categories: advice
 ---

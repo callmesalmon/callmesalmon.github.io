@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The stolen bytes"
-author: Elis Staaf
+author: Salmon
 date:   2025-01-18 17:29:13 +0100
 categories: ramblings
 ---

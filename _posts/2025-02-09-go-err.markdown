@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Go error handling"
-author: Elis Staaf
+author: Salmon
 date:   2025-02-09 17:10:18 +0100
 categories: ramblings
 ---

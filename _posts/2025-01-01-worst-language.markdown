@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I made the worst programming language ever"
-author: Elis Staaf
+author: Salmon
 date:   2025-01-01 14:09:52 +0100
 categories: projects
 ---
