@@ -1,11 +1,11 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/authority
+permalink: /books/wfm-revised/authority
 title: ""
 ---
 
 # Authority
-In ["Liberty"](/books/waiting-for-marxocracy/liberty), I explained how libertarianism is bad (especially
+In ["Liberty"](/books/wfm-revised/liberty), I explained how libertarianism is bad (especially
 on the consumption side), but there's also another extreme: *Totalitarianism*.
 Because -- surprise -- totalitarianism is bad!
 
@@ -106,4 +106,4 @@ credits:
 
 \*Corresponding authors
 
-## [Next chapter: The status quo](/books/waiting-for-marxocracy/status-quo)
+## [Next chapter: The status quo](/books/wfm-revised/status-quo)

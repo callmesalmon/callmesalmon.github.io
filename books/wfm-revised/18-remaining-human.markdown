@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/remaining-human
+permalink: /books/wfm-revised/remaining-human
 title: ""
 ---
 
@@ -43,7 +43,7 @@ not something you want to say. Live a life and live it to the fullest.
 
 ## Corporatization
 For the love of god, do *not* corporatize your project and *especially* don't
-corporatize yourself! I brought this up in ["Code of conduct"](/books/waiting-for-marxocracy/code-of-conduct),
+corporatize yourself! I brought this up in ["Code of conduct"](/books/wfm-revised/code-of-conduct),
 but do *not* corporatize your project! I brought up a commit I made on one of my
 projects which I believe said
 
@@ -82,7 +82,7 @@ are *more* greedy.
 Redhat is a greedy and disgusting company trying to exploit FOSS to generate money.
 On their website, [opensource.com](https://opensource.com/article/17/1/cultivating-business-foss-market)
 they refer to FOSS as an "emerging market". They refer to FOSS as just another venture
-to them, just like I said in ["Venture capitalism"](/books/waiting-for-marxocracy/capitalism).
+to them, just like I said in ["Venture capitalism"](/books/wfm-revised/capitalism).
 They slowly massacre small FOSS projects in order to take their place. Boycott Redhat
 for a better future. Also, Redhat says *we* must treat *them* with respect:
 
@@ -105,4 +105,4 @@ So please. Remain human. Don't be greedy. I'd like to end this chapter with the
 they fall will go a long way toward dispelling these misconceptions and **we will
 all reap the benefits** of broadening the scope of our collaborations.*
 
-## [Next chapter: Redhat and Oracle](/books/waiting-for-marxocracy/redhat-oracle)
+## [Next chapter: Redhat and Oracle](/books/wfm-revised/redhat-oracle)

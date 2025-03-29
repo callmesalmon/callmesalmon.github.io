@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/collectivism
+permalink: /books/wfm-revised/collectivism
 title: ""
 ---
 
@@ -100,4 +100,4 @@ was probably correct? Owning AI collectively would help stop corporate
 greed and make *everyone* happy. Okay, so this is the pitch: A super
 duper good AI which everyone owns collectively, commun\[ai]ism!
 
-## [Next chapter: Fascism](/books/waiting-for-marxocracy/fascism)
+## [Next chapter: Fascism](/books/wfm-revised/fascism)

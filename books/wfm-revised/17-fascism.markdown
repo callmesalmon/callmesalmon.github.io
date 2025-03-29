@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/fascism
+permalink: /books/wfm-revised/fascism
 title: ""
 ---
 
@@ -120,4 +120,4 @@ to keep dirty fascists away from your source code. Speak openly against fascism,
 saying things like *"I don't want fascism in MY FOSS!"*, or something like that,
 I'm not a rhetorical expert.
 
-## [Next chapter: Remaining human](/books/waiting-for-marxocracy/remaining-human)
+## [Next chapter: Remaining human](/books/wfm-revised/remaining-human)

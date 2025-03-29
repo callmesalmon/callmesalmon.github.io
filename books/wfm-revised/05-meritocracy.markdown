@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/meritocracy
+permalink: /books/wfm-revised/meritocracy
 title: ""
 ---
 
@@ -97,7 +97,7 @@ victim to the FOSS-corruption cycle with the exception of establishing a
 democracy, but that just leads to a worse system: *Oligarchy*. It's next
 to impossible to recover from oligarchy as any forks or new projects
 will just go back into the FOSS-corruption cycle again and again and
-again! But as we discussed in ["Democracy"](/books/waiting-for-marxocracy/democracy),
+again! But as we discussed in ["Democracy"](/books/wfm-revised/democracy),
 there is a way to escape from the hellhole of the FOSS-corruption cycle,
 that being: *Stop accepting donations!* Yet it tends to be a bit harder
 with these meritocrats. But if you're able to reform the meritocracy
@@ -106,4 +106,4 @@ for gods sake! We can collectively reform if we just accept change instead
 of staying with the old and usual. The key to change is -- of course --
 to accept it.
 
-## [Next chapter: Oligarchy and Corporate interest](/books/waiting-for-marxocracy/oligarchy)
+## [Next chapter: Oligarchy and Corporate interest](/books/wfm-revised/oligarchy)

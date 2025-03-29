@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/conclusion
+permalink: /books/wfm-revised/conclusion
 title: ""
 ---
 

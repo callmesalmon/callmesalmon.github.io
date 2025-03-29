@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/code-of-conduct
+permalink: /books/wfm-revised/code-of-conduct
 title: ""
 ---
 
@@ -100,4 +100,4 @@ it's not that difficult. Try to open an issue or make contact with the maintaine
 of the FOSS-project and push for the abolition of the COC. If you *are* the
 maintainer, abolish it yourself. Be moral, I beg of you.
 
-## [Next chapter: Collectivism](/books/waiting-for-marxocracy/collectivism)
+## [Next chapter: Collectivism](/books/wfm-revised/collectivism)

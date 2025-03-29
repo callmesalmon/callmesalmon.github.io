@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/liberty
+permalink: /books/wfm-revised/liberty
 title: ""
 ---
 
@@ -100,4 +100,4 @@ response to authoritarianism in FOSS, and I honestly can't blame them. What
 Marxocracy *tries* to achieve is a balance between these two -- now debunked --
 ideas.
 
-## [Next chapter: The emperor](/books/waiting-for-marxocracy/the-emperor)
+## [Next chapter: The emperor](/books/wfm-revised/the-emperor)

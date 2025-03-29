@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/elitism
+permalink: /books/wfm-revised/elitism
 title: ""
 ---
 
@@ -8,7 +8,7 @@ title: ""
 As you may have figured, many members of FOSS are... Strange in more
 than one different ways. While this is a chapter about toxic elitism
 in FOSS, other weird behaviours include:
-- Tribalism (see [FOSS-culture](/books/waiting-for-marxocracy/FOSS-culture))
+- Tribalism (see [FOSS-culture](/books/wfm-revised/FOSS-culture))
 - Cultism
 - Totalitarianism
 
@@ -128,4 +128,4 @@ Now, it's time to hand over your project to a big corporation, like Microsoft --
 shouldn't be hard if your project is large. Simply, set up a donation option and let
 the money flow in!
 
-## [Next chapter: Waiting](/books/waiting-for-marxocracy/waiting)
+## [Next chapter: Waiting](/books/wfm-revised/waiting)

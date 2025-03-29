@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/oligarchy
+permalink: /books/wfm-revised/oligarchy
 title: ""
 ---
 
@@ -27,7 +27,7 @@ no freedom here, it's just *"Do what I say because I'm paying you"*!
 ## The power
 Just to give you a sense of what these oligarchs will do if they even
 get a whiff of you doing something you want. Godot -- an oligarchy --
-experienced this under the ["Wokot controversy"](https://elisstaaf.github.io/books/waiting-for-marxocracy/foss-culture#godot-foundation).
+experienced this under the ["Wokot controversy"](https://elisstaaf.github.io/books/wfm-revised/foss-culture#godot-foundation).
 A bunch of oligarchs got really mad that Godot -- prepare for something
 shocking -- cares about gay people? MIND BLOWN! So, they left and created
 an "apolitical" (by which I mean: "conservative nationalist") fork of the
@@ -102,4 +102,4 @@ the modern world? *Us*.
 Well, that sounded awfully radical. But yes, I'm being completely honest and  
 hope more people take up my call to action to save open source. Thank you.
 
-## [Next chapter: BDFL](/books/waiting-for-marxocracy/bdfl)
+## [Next chapter: BDFL](/books/wfm-revised/bdfl)

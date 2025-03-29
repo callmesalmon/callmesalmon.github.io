@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/foss-culture
+permalink: /books/wfm-revised/foss-culture
 title: ""
 ---
 
@@ -137,4 +137,4 @@ which can lead to innocent people getting hurt, and guilty people
 getting away. Whatever you do, do *not* fall into the tribalism
 mentality: It can lead to people getting hurt.
 
-## [Next chapter: Communism](/books/waiting-for-marxocracy/communism)
+## [Next chapter: Communism](/books/wfm-revised/communism)

@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/status-quo
+permalink: /books/wfm-revised/status-quo
 title: ""
 ---
 
@@ -12,14 +12,14 @@ status quo that I've covered in my book yet!
 
 ## Principles
 The core principles of the status quo is -- as explained in ["Foss
-culture"](/books/waiting-for-marxocracy/foss-culture) -- largely libertarian,
+culture"](/books/wfm-revised/foss-culture) -- largely libertarian,
 both on the consumption side and governing side.
 
 ### Consumption
 On the consumption side, I'd describe the status quo as *conlibertist*, as it largely
 believes in almost unlimited consumption (as we can see with most OSS-licenses, like
 GPL or MIT). I have already gone into detail on why it's bad, so I'll just quote myself
-(["Liberty"](/books/waiting-for-marxocracy/liberty)):
+(["Liberty"](/books/wfm-revised/liberty)):
 
 *... You know, I was planning to put a satirical piece right here, but the problem
 with libertarianism -- unlike Godotism -- is that it's not very funny, it's just
@@ -36,8 +36,8 @@ response to authoritarianism in FOSS, and I honestly can't blame them.*
 
 ### Governance
 On the governing side... It's mixed. A lot of projects don't clearly follow any
-of the governance-systems mentioned in chapters [3](/books/waiting-for-marxocracy/communism) -
-[7](/books/waiting-for-marxocracy/bdfl). You know what time it is:
+of the governance-systems mentioned in chapters [3](/books/wfm-revised/communism) -
+[7](/books/wfm-revised/bdfl). You know what time it is:
 *Unintuitive-solution-with-no-real-meaning-that-can-be-accomplished-in-a-simpler-way-time*!
 So let's use a graph! We'll have the x scale representing how egalitarian it is (left: most,
 right: least) and the y scale representing how authoritarian it is (up: most, down: least).
@@ -99,4 +99,4 @@ And not just something important, something *special*.
 So, without further ado, let's get onto the sumarization/ending of this book. It's good,
 I hope... It compiles all of my ideas into a short manifesto, at least!
 
-## [Next chapter: Manifesto](/books/waiting-for-marxocracy/manifesto)
+## [Next chapter: Manifesto](/books/wfm-revised/manifesto)

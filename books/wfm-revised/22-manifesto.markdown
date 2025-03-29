@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/manifesto
+permalink: /books/wfm-revised/manifesto
 title: ""
 ---
 
@@ -29,7 +29,7 @@ given it, the choice with the most votes win and shall be added. A modern democr
 to be a representative democracy. While this *may* sometimes work in real-life, it never
 works in FOSS. You see, a party is less an organization than a package of beliefs, which
 more often than not leads to tribalism (if you want to know why that's a problem, refer to
-[FOSS-culture](/books/waiting-for-marxocracy/foss-culture)). In Marxocracy and FOSS-democracy
+[FOSS-culture](/books/wfm-revised/foss-culture)). In Marxocracy and FOSS-democracy
 in general, it's important to be anti-partisan, meaning not being for any party, and not
 wanting any parties. There's very much a reason for me citing direct democracy as a core
 part of Marxocracy, and not just democracy.
@@ -204,4 +204,4 @@ where the workers (developers) control the means of
 production (being pull-requests and code-contributions,
 which is a core part in FOSS anyways).*
 
-## [Next chapter: Conclusion](/books/waiting-for-marxocracy/conclusion)
+## [Next chapter: Conclusion](/books/wfm-revised/conclusion)

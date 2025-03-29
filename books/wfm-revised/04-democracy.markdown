@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/democracy
+permalink: /books/wfm-revised/democracy
 title: ""
 ---
 
@@ -85,7 +85,7 @@ A modern democracy tends to be a *representative democracy*. While this *may*
 sometimes work in real-life, it never works in FOSS. You see, a party is
 less an organization than a package of beliefs, which more often than
 not leads to tribalism (if you want to know why that's a problem,
-refer to [FOSS-culture](/books/waiting-for-marxocracy/foss-culture)).
+refer to [FOSS-culture](/books/wfm-revised/foss-culture)).
 In Marxocracy and FOSS-democracy in general, it's important to be
 anti-partisan, meaning not being for any party, and not wanting any
 parties. There's very much a reason for me citing *direct democracy*
@@ -103,4 +103,4 @@ brings up many of the points about anarchy I've covered --, see
 which more or less confirms democracy as the right way of
 governance for FOSS. Unlike what we'll be covering next:
 
-## [Next chapter: Meritocracy](/books/waiting-for-marxocracy/meritocracy)
+## [Next chapter: Meritocracy](/books/wfm-revised/meritocracy)

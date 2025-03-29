@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/waiting
+permalink: /books/wfm-revised/waiting
 title: ""
 ---
 
@@ -156,4 +156,4 @@ at least) know that they'll die now. McBert is first to go, leaving
 Peters with 0.0 children and an acute case of starvation, yet living
 in bliss due to ignorance...
 
-## [Next chapter: Cultism](/books/waiting-for-marxocracy/cultism)
+## [Next chapter: Cultism](/books/wfm-revised/cultism)

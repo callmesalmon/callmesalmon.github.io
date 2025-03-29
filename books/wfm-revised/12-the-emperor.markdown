@@ -1,14 +1,14 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/the-emperor
+permalink: /books/wfm-revised/the-emperor
 title: ""
 ---
 
 # The emperor
 We've reached it. The culmination of Richard Stallman's might. An entire
 chapter on Richard Stallman. Think of it as tying up the loose ends of
-["Tribalism"](/books/waiting-for-marxocracy/foss-culture#foss-tribalism) and
-["Cultism"](/books/waiting-for-marxocracy/cultism).
+["Tribalism"](/books/wfm-revised/foss-culture#foss-tribalism) and
+["Cultism"](/books/wfm-revised/cultism).
 
 ## Stallman the puppeteer
 Stallman is a *terrible* person, but before we talk about that, let's talk
@@ -108,4 +108,4 @@ artist and the fundamental reason the art has been separated. Because,
 to truly separate him from his art, we need to recognize his wrongs,
 and right them by not supporting him anymore.*
 
-## [Next chapter: Venture capitalism](/books/waiting-for-marxocracy/capitalism)
+## [Next chapter: Venture capitalism](/books/wfm-revised/capitalism)

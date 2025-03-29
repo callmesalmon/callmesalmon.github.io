@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/cultism
+permalink: /books/wfm-revised/cultism
 title: ""
 ---
 
@@ -16,7 +16,7 @@ FORGIVE STALLMAN
 
 ## And Stallman returns
 Stallman? Why would we mention Stallman again? Well... The thing I mentioned
-in ["Tribalism"](/books/waiting-for-marxocracy/foss-culture#foss-tribalism) was... Only *one* of the controversies.
+in ["Tribalism"](/books/wfm-revised/foss-culture#foss-tribalism) was... Only *one* of the controversies.
 *"Gasp!"*, I hear you say! But fret not, there's this very good paper on
 all of his controversial activity which I've taken a lot of this info from!
 So... If you want to read more on the topic, read it [here](https://https://stallman-report.org/).
@@ -108,4 +108,4 @@ but the purpose of me bringing this up is that... THE FOSS-CULTISTS DEFENDED HIM
 insane... You cannot defend people with this kind of problematic behaviour, neither Trump
 nor Stallman! Dear programmers, don't defend pedophile-sympathizers.
 
-## [Next chapter: Liberty](/books/waiting-for-marxocracy/liberty)
+## [Next chapter: Liberty](/books/wfm-revised/liberty)

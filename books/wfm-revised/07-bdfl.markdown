@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/bdfl
+permalink: /books/wfm-revised/bdfl
 title: ""
 ---
 
@@ -113,4 +113,4 @@ Wait a second... DID THAT FOSS-PROJECT JUST SAY "NO FORKING OR DISTRIBUTION"!? T
 *actually* insane! And this... Makes it non open-source. Forking and distributions are
 not only core principles of Marxocracy, but of FOSS in general! That is... Insane.
 
-## [Next chapter: Elitism](/books/waiting-for-marxocracy/elitism)
+## [Next chapter: Elitism](/books/wfm-revised/elitism)

@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/capitalism
+permalink: /books/wfm-revised/capitalism
 title: ""
 ---
 
@@ -10,8 +10,8 @@ title: ""
 I'm a Marxist, I've said that before. Who could've guessed that I'd include
 a whole chapter in my manifesto about the evils of capitalism and how it's
 slowly ruining FOSS. Think of this as a broader sequel to
-["Oligarchy"](/books/waiting-for-marxocracy/oligarchy#corporate-interest) and
-["Corporate interest"](/books/waiting-for-marxocracy/oligarchy#oligarchy).
+["Oligarchy"](/books/wfm-revised/oligarchy#corporate-interest) and
+["Corporate interest"](/books/wfm-revised/oligarchy#oligarchy).
 
 ## Why?
 Why do capitalists invest in FOSS? Well, to seem cool (and also to destroy any
@@ -41,8 +41,8 @@ APARTHEID! In reality, the rich people of the world are made by:
 
 A lot of these people are "tech broligarchs", e.g:
 
-*(Tech broligarch) A person (often a white cishet man) who has made all
-of their money from tech.*
+*(Tech broligarch) A person (often a white cishet man, since yes, that's
+inequality for ya) who has made all of their money from tech.*
 
 These tech broligarchs see *money* in open-source, and thus invests in FOSS-projects.
 DO NOT LET THEM, PLEASE DO NOT LET THEM.
@@ -55,8 +55,7 @@ Well, it can be summed up with:
 
 What I mean here is that when (and it's *when*, not *if*) capitalism collapses,
 FOSS will immediately stop being corporate and truly become *Free* and Open
-Source Software. This is another fundamental of Marxocracy: *Bringing a
-communist revolution, as that will lead to more equality.*
+Source Software. So, organize, if you want.
 
 Okay, let's brighten up the mood with a *satire piece*!!!
 
@@ -106,4 +105,4 @@ build up my own gestapo to kill minorities without state intervention! I'm a
 nazi-anarcho-capitalist-fordist, and I'm proud of that! I'm proud of exploiting
 people! I'M SO PROUD! MURRICA RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-## [Next chapter: Groupthink](/books/waiting-for-marxocracy/groupthink)
+## [Next chapter: Groupthink](/books/wfm-revised/groupthink)

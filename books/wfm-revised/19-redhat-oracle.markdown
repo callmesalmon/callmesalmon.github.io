@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/redhat-oracle
+permalink: /books/wfm-revised/redhat-oracle
 title: ""
 ---
 
@@ -22,7 +22,7 @@ Young serving as chief executive officer (CEO).*
 Source: Wikipedia
 
 ## Why Redhat is so bad
-As I explained in ["Oligarchy and corporate interest"](/books/waiting-for-marxocracy/oligarchy#corporate-interest),
+As I explained in ["Oligarchy and corporate interest"](/books/wfm-revised/oligarchy#corporate-interest),
 big businesses are slowly trying to ruin FOSS by replacing homemade and *actually*
 FOSS projects with their own *corporate* projects. They can also buy out other
 projects by donation. Redhat is quite possibly the worst offender of them both.
@@ -113,4 +113,4 @@ That is... It is... Hmm... That is... Certainly something. Oh, and there are *ma
 WAY TO MUCH, at least for me to cover. See [this](https://lawyerinc.com/biggest-oracle-lawsuits-in-company-history/)
 for more.
 
-## [Next chapter: Authority](/books/waiting-for-marxocracy/authority)
+## [Next chapter: Authority](/books/wfm-revised/authority)

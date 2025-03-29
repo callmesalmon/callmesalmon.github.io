@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/groupthink
+permalink: /books/wfm-revised/groupthink
 title: ""
 ---
 
@@ -19,11 +19,11 @@ science, management, and organizational theory, as well as important aspects of
 deviant religious cult behaviour.*
 
 ## FOSS-groupthink
-In cults (including [FOSS-cults](/books/waiting-for-marxocracy/cultism#the-foss-cults)), this
+In cults (including [FOSS-cults](/books/wfm-revised/cultism#the-foss-cults)), this
 phenomenon is *scarily* prominent. I can honestly guarantee that if this
 manifesto gains traction, I'll get *at least* 3 death threats (I'm not that
 prominent on the internet tough, so I doubt they'll be able to follow through
-with it). Leaders of these cults (like [Richard Stallman](/books/waiting-for-marxocracy/the-emperor)) are often
+with it). Leaders of these cults (like [Richard Stallman](/books/wfm-revised/the-emperor)) are often
 able to manipulate the masses into thinking like them. The mentality of
 GNU and FOSS as a whole boils down to:
 
@@ -33,7 +33,7 @@ But... You should. It's important to be critical of everything (including the
 "rebellion"). Take -- for example -- the GNU-cult (not GNU, but the cult aspect
 of it): I'm almost 100% sure that if the GNU-cultists *weren't* GNU-cultists,
 they *would* criticize Stallman. Any decent human being should criticize Stallman
-(refer to ["The emperor"](/books/waiting-for-marxocracy/the-emperor) for why).
+(refer to ["The emperor"](/books/wfm-revised/the-emperor) for why).
 
 ## The importance of criticism
 I know I've spent this whole cult section of the book stressing the importance
@@ -103,4 +103,4 @@ anti-godot movement. It's basically a cult which originates from people perceivi
 Godot as a cult (spoiler: It's not) and thus creating another cult in the process.
 And don't worry, cultists! Groupthink is prominent in these cults too!
 
-## [Next chapter: Code of conduct](/books/waiting-for-marxocracy/code-of-conduct)
+## [Next chapter: Code of conduct](/books/wfm-revised/code-of-conduct)

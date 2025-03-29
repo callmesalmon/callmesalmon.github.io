@@ -1,6 +1,6 @@
 ---
 layout: base
-permalink: /books/waiting-for-marxocracy/communism
+permalink: /books/wfm-revised/communism
 title: ""
 ---
 
@@ -32,7 +32,7 @@ be precise) and I have my biases. Keep that in mind.
 ## Marxocracy
 So now, why would FOSS-communism be a better way of
 running a FOSS-project than Fossarchy or Mossarchy
-(see [FOSS-culture](/books/waiting-for-marxocracy/foss-culture))?
+(see [FOSS-culture](/books/wfm-revised/foss-culture))?
 Well, let's disect the formal definition (which
 by "formal" I mean "provided from the top of
 my head"), part by part:
@@ -109,4 +109,4 @@ benefits:
 These benefits clearly outline some of the great things
 about Marxocracy.
 
-## [Next chapter: Democracy](/books/waiting-for-marxocracy/democracy)
+## [Next chapter: Democracy](/books/wfm-revised/democracy)
