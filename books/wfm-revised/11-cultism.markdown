@@ -104,8 +104,8 @@ who are horrified by the idea that their little baby is maturing."*
 \- Richard Stallman
 
 Granted, he did [denounce this later](https://www.stallman.org/archives/2019-sep-dec.html#14_September_2019_(Sex_between_an_adult_and_a_child_is_wrong)),
-but the purpose of me bringing this up is that... THE FOSS-CULTISTS DEFENDED HIM! Th-that's
-insane... You cannot defend people with this kind of problematic behaviour, neither Trump
-nor Stallman! Dear programmers, don't defend pedophile-sympathizers.
+but the purpose of me bringing this up is that... THE FOSS-CULTISTS DEFENDED HIM! That's
+batshit insane. You cannot defend people with this kind of problematic behaviour, neither
+Trump nor Stallman! Dear programmers, don't defend pedophile-sympathizers.
 
 ## [Next chapter: Liberty](/books/wfm-revised/liberty)

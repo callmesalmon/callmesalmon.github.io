@@ -109,4 +109,4 @@ benefits:
 These benefits clearly outline some of the great things
 about Marxocracy.
 
-## [Next chapter: Democracy](/books/wfm-revised/democracy)
+## [Next chapter: Democracy and meritocracy](/books/wfm-revised/democracy-meritocracy)
