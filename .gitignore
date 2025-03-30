@@ -24,3 +24,8 @@ vendor
 *.zip
 *.7z
 *.zst
+
+# Important hidden files
+*.mdpdf/
+*.secret
+*.hide
