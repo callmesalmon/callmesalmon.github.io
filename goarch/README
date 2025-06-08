@@ -8,6 +8,6 @@ PREREQUISITES
     * A working go compiler
 
 INSTALL
-    git clone https://github.com/ElisStaaf/ElisStaaf.github.io website
+    git clone https://github.com/callmesalmon/callmesalmon.github.io website
     cd website/goarch
     sudo ./make.sh
