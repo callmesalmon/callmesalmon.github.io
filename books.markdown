@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: "Books"
+title: "eBooks"
 ---
 
 Books/Essays/eBooks I've written. They are... Somewhat readable
@@ -13,7 +13,10 @@ A view into the political landscape of FOSS and IT as a whole.
 In this book, I explore concepts such as democracy, oligarchy
 and corporate interest with a FOSS spin to it. I also try to
 design an ultimate governing system for FOSS and IT as a
-whole. This book also serves as a manifesto of sorts.
+whole. This book also serves as a manifesto of sorts. I am
+planning on rewriting this as it is old and outdated and does
+not *completely* reflect my opinions. And the name sucks.
+Available in pdf format only.
 
 ## [The Cyfraith Cath](cyfraith-cath/introduction)
 A view into the kingdom of Wales in the medieval times,
