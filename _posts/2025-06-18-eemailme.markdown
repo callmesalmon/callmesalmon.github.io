@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "eemailme or die"
+author: Salmon
+date:   2025-06-18 19:09:23 +0100
+categories: rant
+---
+
+Look, I promise this is an interesting story. So, in early january of this year, I fell into
+a rabbit hole that I have not been able to crawl out of. It's about a mysterious github user
+named @eemailme and how it led me to find out something that I did *not* know about until
+now. And our tale starts with
+
+## "test", the github repo
+In my recomended on github, a new repo suddenly popped up... It was called
+[test](https://github.com/eemailme/test) and was made by a mysterious user named
+[eemailme](https://github.com/eemailme). This naturally peaked my curiosity and I decided
+to go and look around a bit. There, I saw 2 issues, aptly named:
+
+- ["Just doing stuff for fun! ps. I don't like AI" -Source: AI bot](https://github.com/eemailme/test/issues/8)
+- [hey](https://github.com/eemailme/test/issues/5)
+
+The first one is referring to the description of eemailme's github and then calling them an
+AI bot. But that doesn't really matter for now. What I want to focus on is the second one
+of these 2 issues, "hey".
+
+## hey
+"hey"'s description was 2 simple words: "shut" and "up", in that order. Whoever this
+[donnaken](https://github.com/donnaken15) guy (the one who opened the issue) was, I knew
+he *really* didn't like eemailme. But why?
+
+This is a string of responses to this thread that explain the situation a bit:
+
+1. [poka](https://github.com/poka-IT): What is this? Why 24 people stars this helloworld repo??
+What is this issue???
+So strange...
+2. donnaken: this user adds a watch to every repo imaginable
+[jchloos](https://github.com/jhcloos) v2
+3. poka: ok, he watched my repo too, so I understand, this is how I came here ^^
+jchloos v2?
+The username is eemailme, so i email him... And probably go to sleep...
+4. donnaken: jchloos is some random user with their own website who also botted watches on
+(presumably) thousands of repos I thought it was someone actually flattering me but I figured out the ruse
+
+*\[...\]*
+
+5. [michael](https://github.com/mbostwick): Its a bot network..
+
+And then the next message michael drops is:
+
+6. michael: yah, it looks like its a manual user. I think there is some setup where the
+person or persons behind the network is reading specific public code and building A.I tools
+using the code. There is a real person though who reads the emails. I thought this was
+connected to a larger criminal network of attorneys I've been dealing with, but the behaviors 
+suggest its more of a fringe company. Everything is white labeled right now, they also appear
+to be using cut outs to avoid facing legal action. They are not following git hubs terms of 
+service though. I'd say more but I don't want to expose too much yet..
+
+## michael
+The fuck you mean Michael!? Not exposing too much yet!? WDYM!? As you'll see, our pal Mike here
+is very important to the story. A few messages pass and then one of our most important characters
+drops in like a bombshell: [hexcode](https://github.com/0XDE57) (Who I'll call "hex")
+
+7. hex: this smells (potentially) related?: <https://research.checkpoint.com/2024/stargazers-ghost-network>
+
+Hex links to this very important blog post by "checkpoint", talking about a ghost-network of stargazers
+(people who star repos). Please go read it for yourself before you continue on. After this bombshell
+hits, the thread is quiet for a while, with some ["edouard"](https://github.com/edouard-sn) guy getting
+a false positive with his antivirus along the way. But this is where I come in.
+[I](https://github.com/callmesalmon), at the time, believing all of this was due to corruption,
+posted a message:
+
+8. me: How is it possible that these users aren't banned by github? Is github that corrupt nowadays???
+
+And this is where Michael starts playing a bigger role.
+
+## The internet: A weird place
+
+9. michael: I'm not sure why you would assume its corruption ? There is a real person behind it. Do you have
+anything to show they are doing anything but watching you and pulling the code thats been put out in the open ?
+
+10. me: Yeah, tbh kinda impulsive of me to say -_-, it's just kind of... Weird?
+
+11. michael: I understand and I did a bit of research,
+[mbostwick/agile-game#5](https://github.com/mbostwick/agile-game/issues/5) ,
+the internet is a weird place ..
+
+Now, I'm too lazy to document his "bit of research", so if you have the time, read it yourself.
+If not, you're on your own. I respond:
+
+12. me: That is certainly interesting. I did not expect this to turn out as it did. I'll have to
+agree with you; The internet is a weird place.
+
+## The internet: 6 months later
+And now... We get to the fun bit. The one where I do the research myself. On the same project, I
+see 2 *closed* issues. A very important one, hides here.
+
+## [+](https://github.com/eemailme/test/issues/4)
+I'll let you draw your own conclusions here ;)
