@@ -8,6 +8,9 @@ Books/Essays/eBooks I've written. They are... Somewhat readable
 and I guess that you -- if you have eyes -- can experience them.
 They are linked below.
 
+## [Clippy libre!](clippy-libre)
+A short story and manifesto on the clippy boycott.
+
 ## [Waiting for Marxocracy](wfm.pdf)
 A view into the political landscape of FOSS and IT as a whole.
 In this book, I explore concepts such as democracy, oligarchy
