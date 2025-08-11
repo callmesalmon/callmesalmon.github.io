@@ -1,10 +1,10 @@
 ---
 layout: base
-permalink: /books/clippy-libre
+permalink: /books/libera-internet
 title: ""
 ---
 
-# Clippy libre!
+# Libera Internet!
 For the longest time big businesses have been cracking down on... Well, everything, but the subject
 of this manifesto is **YouTube**. For the longest time we've been unfree on the internet.
 For the longest time... They have controlled us. They drained us of our creativity. We weren't loud

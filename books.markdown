@@ -8,7 +8,7 @@ Books/Essays/eBooks I've written. They are... Somewhat readable
 and I guess that you -- if you have eyes -- can experience them.
 They are linked below.
 
-## [Clippy libre!](clippy-libre)
+## [Libera Internet!](libera-internet)
 A short story and manifesto on the clippy boycott.
 
 ## [Waiting for Marxocracy](wfm.pdf)
