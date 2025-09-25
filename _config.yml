@@ -21,7 +21,8 @@
 title: My blog
 email: elis.staaf@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  My small corner of the internet :3
+  Moving to codeberg, this won't be updated anymore. See https://callmesalmon.codeberg.page/
+  for all new stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: callmesalmon
