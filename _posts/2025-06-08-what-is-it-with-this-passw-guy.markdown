@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "@Passw, a tale of I don't fucking know really actually"
+title:  "@Passw"
 author: Salmon
 date:   2025-06-08 16:30:23 +0100
 categories: rant
@@ -33,4 +33,4 @@ atleast realized what happened. @passw is probably a bot that clones people's re
 exposed information such as API keys etc.
 
 And that brings us to the end of this post. Sorry for not posting in a while, I've been busy with
-doing actual code and not doing anything code related but I'm back in the loop again. So byeee :3
+doing actual code and not doing anything code related but I'm back in the loop again. So byeee ig

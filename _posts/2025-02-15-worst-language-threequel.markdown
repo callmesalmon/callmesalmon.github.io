@@ -109,16 +109,8 @@ minimalism!
 
 ## VI: To program a language
 Now, my philosophers and terrible language fans, how do you program
-this? Look, "Nemerle" is not my area of expertise but I would like
-to quote Einstein on this:
-
-*"You should like, when making a bad language: Write very, VERY ugly
-code. By doing that no one can like say that you're not funny
-cause like ugly code is inherently funny as everybody knows
-anyway E=mc^2"*  
-\- Einstein
-
-That is very wise words. A *really* bad programming language is
+this? Look, "Nemerle" is not my area of expertise but a *really* 
+bad programming language is
 incomplete if the code is pretty... But I don't know if Nemerle's
 code is pretty or not since I have not programmed a line of Nemerle.
 Just make it really ugly. And also functional. We want our terrible
@@ -126,26 +118,3 @@ language to at least be *usable* in the most liberal usage of the
 world. Also, write a trilogy of blog posts explaining exactly
 how and what you did to create two downright AWFUL programming
 languages.
-
-## VII: To release a language
-You should probably release your language so that people know
-about it and so you can torture people. So do that somehow.
-I'd like to quote Stalin on this one:
-
-*"Ладно, например, захватить средства производства, коммунизм и все такое, но также: разве это не хорошая
-идея — выпустить свой плохой язык программирования? Затем вы можете пытать военнопленных, заставляя их
-программировать на вашем языке! Я гений!"*
-
-And I have to completely agree! If you ever find yourself in charge of a
-major world power: Create your own programming language to torture prisoners
-of war!
-
-## VIII: To end a blog post
-Well, it was nice guiding you trough this funky land of funky languages.
-Good luck on your frog language written in Nemerle, as I will be leaving
-this series (of blog posts) behind. I'd like to end this series with
-a quote from Mao Zedong:
-
-*"革命！自由！破壞共產主義在世界範圍內聲譽的垃圾政策！但是，我認為創建糟糕的程式設計語言非常有趣！這就像程式
-設計領域的「大躍進」。感謝所有製作最糟糕程式設計語言的人，他們幾乎和我的政策一樣垃圾，毀掉了全世界共產主義的
-聲譽！"*

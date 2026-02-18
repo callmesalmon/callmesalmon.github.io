@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "eemailme or die"
+title:  "eemailme"
 author: Salmon
 date:   2025-06-18 19:09:23 +0100
 categories: rant
