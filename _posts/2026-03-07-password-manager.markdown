@@ -618,6 +618,20 @@ int main() {
 }
 {% endhighlight %}
 
+And then, finally, a simple ``Makefile``:
+{% highlight make %}
+SOURCE_FILES = $(shell find src/ -name '*.c') $(shell find src/ -name '*.h')
+TARGET = locksmith
+
+CC     = cc
+CFLAGS = -lsodium
+
+all: build
+
+build: $(SOURCE_FILES)
+	$(CC) $(CFLAGS) -o $(TARGET) $(SOURCE_FILES)
+{% endhighlight %}
+
 ### Built to be flawed
 And that brings us to the end of this semi-tutorial. I have one thing to say before you go: this
 version of the software was **built to be flawed**.
