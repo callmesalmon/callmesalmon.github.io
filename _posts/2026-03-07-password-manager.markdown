@@ -232,8 +232,8 @@ this'll do:
 {% endhighlight %}
 
 It's the classic macro expands to another macro bullshittery and it looks AWFUL, but it works. The
-``get_locksmith_passw-dir_filepath`` macro appends ``name`` to the directory name, e.g
-``get_locksmith_passw_dir_filepath("hey.txt") `` becomes ``~/.locksmith/passwords/hey.txt
+``get_locksmith_passw_dir_filepath`` macro appends ``name`` to the directory name, e.g
+``get_locksmith_passw_dir_filepath("hey.txt")`` becomes ``~/.locksmith/passwords/hey.txt``
 Now, we can move on to our password handling functions:
 
 {% highlight c %}
