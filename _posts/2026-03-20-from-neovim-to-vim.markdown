@@ -129,7 +129,7 @@ more than NeoVIM, and I have found that I am also much faster and more efficient
 code, as I have been restricted to VIM bindings. ``netrw`` is just as good as my old file tree
 and programming is genuinely much more fun when I can actually focus on... Well, programming.
 
-In retrospect, I realize that I was a fool for thinking I needed IDE-like features like LSPs
+In retrospect, I realize that I was a fool for thinking I needed IDE-like features like ``LSP``s
 and advanced code completion. It took a while to get over needing these features but now I am
 more efficient than ever and enjoying programming much more.
 
