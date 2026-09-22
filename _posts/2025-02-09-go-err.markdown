@@ -20,7 +20,7 @@ Take a look at this python code:
 try:
     print("Hello World!");
 except Exception:
-    print("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+    print("Error");
 {% endhighlight %}
 
 *Yes*, I will say something positive about python for once, this is
@@ -30,7 +30,7 @@ this Go code:
 {% highlight go %}
 _, err := fmt.Println("Hello World!");
 if err != nil {
-    fmt.Println("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+    fmt.Println("Error");
 }
 {% endhighlight %}
 
@@ -189,13 +189,12 @@ Uhh, no!? It's ugly and... Very strange? Like
 
 {% highlight go %}
 some_function() ? {
-    fmt.Println("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+    fmt.Println("Error");
 }
 {% endhighlight %}
 
 is not something i want to write right now and it's kind of
-hard to read? It's very implicit and... UGLY AND TERRIBLE AND
-TRASH AND AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!
+hard to read? It's very implicit and honestly quite ugly.
 
 ## VIII: How do we fix this?
 
@@ -207,15 +206,8 @@ Now... How do we fix this? How do we solve this problem
 * c) Venture into the depths of the internet in search
 of a better way?
 
-Well... The true option worth considering is
-
 ## X: The solution
 
-What I can conclude from this wild whirlwind of ideas
-is that you can't fix the system from within... I was actually
-thinking of drawing an allegory to capitalism *right here*, but
-this is a programming blog, not a political theory blog. My proposal
-is that the go errors need to be reworked. The ``error`` type needs
-to be fixed, and then we can fix the system. I don't know where
-we'll go from there, but this is a good, -- no -- great starting
-point. And if we can accomplish this, then we're halfway to greatness.
+I don't know.
+
+Yep, that's the blog post. Goodbye.
