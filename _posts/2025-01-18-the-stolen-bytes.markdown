@@ -61,14 +61,13 @@ on the stack. Why is this? These are padding bytes, they are used so that..?
 Wait, what? MSVC is *stealing* 8 bytes for "padding" when they could *easily*
 be compressed. MSVC is a *thief*. This makes a lot of programs *much* slower!
 Think about this on a larger scale! I call the above code 1024 times!
-8 * 1024 is 8000 bytes! 8KB have now been used. Let's do that 1024 times.
-8 * 1024 is still 8000... MEGABYTES!!! 8MB. Let's repeat *that* 1024 times.
-Now, 8 * 1024 continues to be 8000... But the value increases to *GIGABYTES*!?
+8 * 1024 is around 8000 bytes! 8KB have now been used. Let's do that 1024 times.
+8 * 1024 is still around 8000... MEGABYTES!!! 8MB. Let's repeat *that* 1024 times.
+Now, 8 * 1024 continues to be around 8000... But the value increases to *GIGABYTES*!?
 8GB of *nothing* is now on your system! You have wasted 8GB! This is of course
-an exaggeration, (8 * 1024) * 3 is not an equation you see in the wild often,
-but this means that MSVC is using up space on your system!!! MSVC could theoretically
-take up your entire system with useless padding. Though incredibly unlikely, a
-malicous attacker could theoretically do something like this:
+a deliberate misunderstanding of how memory works, but it's a useful hypothetical for
+demonstrating how this *could* waste memory, temporarily. To take our hypothetical even
+further, consider the following piece of code:
 
 {% highlight cpp %}
 void evil() {
@@ -91,26 +90,13 @@ int main() {
 }
 {% endhighlight %}
 
-This would fill up your system with bytes upon bytes, like this:
-- 8B
-- 8KB
-- 8MB
-- 8GB
-- A standard computer would die around here.
-- 8TB
-- 8PB
-- A really big data center would die around here.
-- 8EB
-- Every thought any human being has ever had would fit here.
-- 8ZB
-- 8YB
-- If someone took in this information, they would probably collapse
-  into a black hole.
+This would, in theory, fill your system with bytes upon bytes (even though
+it basically wouldn't, it would just make some programs much slower) and
+demonstrates how bad MSVC is, really.
 
-Do you understand now? In just 9 iterations of this program, we could
-*probably* create a black hole. MSVC wastes *a lot* of memory in the
-long run. Just to get a picture, MSVC's padding takes up
-around the space of a single chrome tab. *REALLY BIG*.
+In smaller projects, this probably wouldn't make too much of a difference
+(premature optimization and yada-yada) but in larger projects this could
+cause delays and if you are a really bad coder: **crashes**.
 
 Anyway, that was just my rambling. I'm way to lazy to contribute
 anything interesting to society. I was actually planning to make
